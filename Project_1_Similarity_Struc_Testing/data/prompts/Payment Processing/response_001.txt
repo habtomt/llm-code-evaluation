@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop functionality that allows users to set up automatic payments on a regular schedule. Include options for users to manage their subscriptions and cancel if needed.

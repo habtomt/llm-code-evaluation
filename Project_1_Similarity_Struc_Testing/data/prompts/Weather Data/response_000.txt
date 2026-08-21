@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a system that fetches and displays live weather data, including temperature, humidity, and wind speed, in a dashboard format for immediate user interaction.

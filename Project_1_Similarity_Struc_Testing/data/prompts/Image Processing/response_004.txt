@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design an algorithm to divide an image into multiple parts or regions to simplify analysis or change of representation.

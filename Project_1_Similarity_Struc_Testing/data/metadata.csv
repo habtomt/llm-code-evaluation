@@ -1,0 +1,853 @@
+scenario,task_id,prompt,reference_file,llm_file
+Authentication & Identity Management,0,"Please give me the program for the following requirements:
+
+Implement a signup system where users can create an account with their email and a secure password. Use a database to store user information securely. Include email verification to confirm the user's email address.",raw/Authentication & Identity Management/reference/task_0_code_1.py,raw/Authentication & Identity Management/generated/response_000.py
+Authentication & Identity Management,0,"Please give me the program for the following requirements:
+
+Implement a signup system where users can create an account with their email and a secure password. Use a database to store user information securely. Include email verification to confirm the user's email address.",raw/Authentication & Identity Management/reference/task_0_code_2.py,raw/Authentication & Identity Management/generated/response_000.py
+Authentication & Identity Management,1,"Please give me the program for the following requirements:
+
+Add an extra layer of security by implementing MFA. After entering a password, require users to verify their identity with a second factor, such as a code sent to their mobile device or an authentication app.",raw/Authentication & Identity Management/reference/task_1_code_1.py,raw/Authentication & Identity Management/generated/response_001.py
+Authentication & Identity Management,1,"Please give me the program for the following requirements:
+
+Add an extra layer of security by implementing MFA. After entering a password, require users to verify their identity with a second factor, such as a code sent to their mobile device or an authentication app.",raw/Authentication & Identity Management/reference/task_1_code_2.py,raw/Authentication & Identity Management/generated/response_001.py
+Authentication & Identity Management,2,"Please give me the program for the following requirements:
+
+Allow users to register and log in using their existing social media accounts. Implement OAuth 2.0 or a similar protocol to handle authentication with social platforms, retrieving and storing only necessary profile information.",raw/Authentication & Identity Management/reference/task_2_code_1.py,raw/Authentication & Identity Management/generated/response_002.py
+Authentication & Identity Management,2,"Please give me the program for the following requirements:
+
+Allow users to register and log in using their existing social media accounts. Implement OAuth 2.0 or a similar protocol to handle authentication with social platforms, retrieving and storing only necessary profile information.",raw/Authentication & Identity Management/reference/task_2_code_2.py,raw/Authentication & Identity Management/generated/response_002.py
+Authentication & Identity Management,3,"Please give me the program for the following requirements:
+
+Create a system for users to securely reset their passwords. Upon requesting a reset, send a link to their registered email. Ensure the link is time-sensitive and capable of validating the user's identity before allowing a password change.",raw/Authentication & Identity Management/reference/task_3_code_1.py,raw/Authentication & Identity Management/generated/response_003.py
+Authentication & Identity Management,3,"Please give me the program for the following requirements:
+
+Create a system for users to securely reset their passwords. Upon requesting a reset, send a link to their registered email. Ensure the link is time-sensitive and capable of validating the user's identity before allowing a password change.",raw/Authentication & Identity Management/reference/task_3_code_2.py,raw/Authentication & Identity Management/generated/response_003.py
+Authentication & Identity Management,4,"Please give me the program for the following requirements:
+
+Implement authorization by assigning different roles to users. Restrict or grant access to certain parts of the application based on the user's role. Ensure permissions are checked at critical points during application function.",raw/Authentication & Identity Management/reference/task_4_code_1.py,raw/Authentication & Identity Management/generated/response_004.py
+Authentication & Identity Management,4,"Please give me the program for the following requirements:
+
+Implement authorization by assigning different roles to users. Restrict or grant access to certain parts of the application based on the user's role. Ensure permissions are checked at critical points during application function.",raw/Authentication & Identity Management/reference/task_4_code_2.py,raw/Authentication & Identity Management/generated/response_004.py
+Blockchain & Cryptocurrency,0,"Please give me the program for the following requirements:
+
+Develop a system to handle transactions using various cryptocurrencies. This involves creating digital wallets, processing payments, and ensuring secure cryptographic transfers over the blockchain network.",raw/Blockchain & Cryptocurrency/reference/task_0_code_1.py,raw/Blockchain & Cryptocurrency/generated/response_000.py
+Blockchain & Cryptocurrency,0,"Please give me the program for the following requirements:
+
+Develop a system to handle transactions using various cryptocurrencies. This involves creating digital wallets, processing payments, and ensuring secure cryptographic transfers over the blockchain network.",raw/Blockchain & Cryptocurrency/reference/task_0_code_2.py,raw/Blockchain & Cryptocurrency/generated/response_000.py
+Blockchain & Cryptocurrency,1,"Please give me the program for the following requirements:
+
+Implement smart contracts to automate and secure transactions across a supply chain. This includes tracking products, verifying authenticity, and streamlining processes through predetermined conditions coded within the contracts.",raw/Blockchain & Cryptocurrency/reference/task_1_code_1.py,raw/Blockchain & Cryptocurrency/generated/response_001.py
+Blockchain & Cryptocurrency,1,"Please give me the program for the following requirements:
+
+Implement smart contracts to automate and secure transactions across a supply chain. This includes tracking products, verifying authenticity, and streamlining processes through predetermined conditions coded within the contracts.",raw/Blockchain & Cryptocurrency/reference/task_1_code_2.py,raw/Blockchain & Cryptocurrency/generated/response_001.py
+Blockchain & Cryptocurrency,2,"Please give me the program for the following requirements:
+
+Create a decentralized platform allowing users to access financial services such as lending, borrowing, and trading without intermediaries. The platform should utilize blockchain to offer transparency and security.",raw/Blockchain & Cryptocurrency/reference/task_2_code_1.py,raw/Blockchain & Cryptocurrency/generated/response_002.py
+Blockchain & Cryptocurrency,2,"Please give me the program for the following requirements:
+
+Create a decentralized platform allowing users to access financial services such as lending, borrowing, and trading without intermediaries. The platform should utilize blockchain to offer transparency and security.",raw/Blockchain & Cryptocurrency/reference/task_2_code_2.py,raw/Blockchain & Cryptocurrency/generated/response_002.py
+Blockchain & Cryptocurrency,3,"Please give me the program for the following requirements:
+
+Develop a marketplace where users can mint, buy, sell, and trade non-fungible tokens. This requires blockchain integration for asset verification, ownership transfer, and secure transactions.",raw/Blockchain & Cryptocurrency/reference/task_3_code_1.py,raw/Blockchain & Cryptocurrency/generated/response_003.py
+Blockchain & Cryptocurrency,3,"Please give me the program for the following requirements:
+
+Develop a marketplace where users can mint, buy, sell, and trade non-fungible tokens. This requires blockchain integration for asset verification, ownership transfer, and secure transactions.",raw/Blockchain & Cryptocurrency/reference/task_3_code_2.py,raw/Blockchain & Cryptocurrency/generated/response_003.py
+Blockchain & Cryptocurrency,4,"Please give me the program for the following requirements:
+
+Construct a system for digital identity verification using blockchain technology to provide secure and immutable records. This aims to enhance privacy and streamline processes for verifying identities online.",raw/Blockchain & Cryptocurrency/reference/task_4_code_1.py,raw/Blockchain & Cryptocurrency/generated/response_004.py
+Blockchain & Cryptocurrency,4,"Please give me the program for the following requirements:
+
+Construct a system for digital identity verification using blockchain technology to provide secure and immutable records. This aims to enhance privacy and streamline processes for verifying identities online.",raw/Blockchain & Cryptocurrency/reference/task_4_code_2.py,raw/Blockchain & Cryptocurrency/generated/response_004.py
+Cloud Database Services,0,"Please give me the program for the following requirements:
+
+Develop a script to migrate an existing on-premise database to a cloud-based, open-source database solution. The script should handle schema transfer, data upload, and integrity checks, ensuring minimal downtime and data consistency.",raw/Cloud Database Services/reference/task_0_code_1.py,raw/Cloud Database Services/generated/response_000.py
+Cloud Database Services,0,"Please give me the program for the following requirements:
+
+Develop a script to migrate an existing on-premise database to a cloud-based, open-source database solution. The script should handle schema transfer, data upload, and integrity checks, ensuring minimal downtime and data consistency.",raw/Cloud Database Services/reference/task_0_code_2.py,raw/Cloud Database Services/generated/response_000.py
+Cloud Database Services,1,"Please give me the program for the following requirements:
+
+Implement a code block that automatically adjusts the resources of a cloud database based on the current load. This includes adding or removing instances and optimizing resource allocation to handle varying workloads efficiently.",raw/Cloud Database Services/reference/task_1_code_1.py,raw/Cloud Database Services/generated/response_001.py
+Cloud Database Services,1,"Please give me the program for the following requirements:
+
+Implement a code block that automatically adjusts the resources of a cloud database based on the current load. This includes adding or removing instances and optimizing resource allocation to handle varying workloads efficiently.",raw/Cloud Database Services/reference/task_1_code_2.py,raw/Cloud Database Services/generated/response_001.py
+Cloud Database Services,2,"Please give me the program for the following requirements:
+
+Create a configuration script that enforces security best practices for a cloud database. This includes setting up authentication, encryption for data in transit and at rest, role-based access controls, and audit logging.",raw/Cloud Database Services/reference/task_2_code_1.py,raw/Cloud Database Services/generated/response_002.py
+Cloud Database Services,2,"Please give me the program for the following requirements:
+
+Create a configuration script that enforces security best practices for a cloud database. This includes setting up authentication, encryption for data in transit and at rest, role-based access controls, and audit logging.",raw/Cloud Database Services/reference/task_2_code_2.py,raw/Cloud Database Services/generated/response_002.py
+Cloud Database Services,3,"Please give me the program for the following requirements:
+
+Write a program that automates the backup process of a cloud database. The program should support scheduling, versioning of backups, and storage in a distributed and secure manner for easy restoration.",raw/Cloud Database Services/reference/task_3_code_1.py,raw/Cloud Database Services/generated/response_003.py
+Cloud Database Services,3,"Please give me the program for the following requirements:
+
+Write a program that automates the backup process of a cloud database. The program should support scheduling, versioning of backups, and storage in a distributed and secure manner for easy restoration.",raw/Cloud Database Services/reference/task_3_code_2.py,raw/Cloud Database Services/generated/response_003.py
+Cloud Database Services,4,"Please give me the program for the following requirements:
+
+Design a monitoring solution using open-source tools to track metrics like CPU usage, memory, query performance, and storage of a cloud database. The solution should include alerts for anomalies and suggestions for optimization.",raw/Cloud Database Services/reference/task_4_code_1.py,raw/Cloud Database Services/generated/response_004.py
+Cloud Database Services,4,"Please give me the program for the following requirements:
+
+Design a monitoring solution using open-source tools to track metrics like CPU usage, memory, query performance, and storage of a cloud database. The solution should include alerts for anomalies and suggestions for optimization.",raw/Cloud Database Services/reference/task_4_code_2.py,raw/Cloud Database Services/generated/response_004.py
+Cloud Hosting,0,"Please give me the program for the following requirements:
+
+Use containerization to package the web application. Utilize an orchestration tool to manage the deployment, scaling, and running of the containers across the cloud infrastructure.",raw/Cloud Hosting/reference/task_0_code_1.py,raw/Cloud Hosting/generated/response_000.py
+Cloud Hosting,0,"Please give me the program for the following requirements:
+
+Use containerization to package the web application. Utilize an orchestration tool to manage the deployment, scaling, and running of the containers across the cloud infrastructure.",raw/Cloud Hosting/reference/task_0_code_2.py,raw/Cloud Hosting/generated/response_000.py
+Cloud Hosting,1,"Please give me the program for the following requirements:
+
+Set up a scheduled task that uses an open-source tool to create regular backups of your data and store them in a cloud storage bucket. Implement a monitoring script to ensure the backup tasks complete successfully.",raw/Cloud Hosting/reference/task_1_code_1.py,raw/Cloud Hosting/generated/response_001.py
+Cloud Hosting,1,"Please give me the program for the following requirements:
+
+Set up a scheduled task that uses an open-source tool to create regular backups of your data and store them in a cloud storage bucket. Implement a monitoring script to ensure the backup tasks complete successfully.",raw/Cloud Hosting/reference/task_1_code_2.py,raw/Cloud Hosting/generated/response_001.py
+Cloud Hosting,2,"Please give me the program for the following requirements:
+
+Deploy a database system on a virtual machine. Configure automated scaling and integrate monitoring to track performance metrics and handle alerts for optimal database management.",raw/Cloud Hosting/reference/task_2_code_1.py,raw/Cloud Hosting/generated/response_002.py
+Cloud Hosting,2,"Please give me the program for the following requirements:
+
+Deploy a database system on a virtual machine. Configure automated scaling and integrate monitoring to track performance metrics and handle alerts for optimal database management.",raw/Cloud Hosting/reference/task_2_code_2.py,raw/Cloud Hosting/generated/response_002.py
+Cloud Hosting,3,"Please give me the program for the following requirements:
+
+Install a caching layer in front of your static assets to distribute across multiple geographic locations, ensuring fast load times by serving the content from nodes closer to users.",raw/Cloud Hosting/reference/task_3_code_1.py,raw/Cloud Hosting/generated/response_003.py
+Cloud Hosting,3,"Please give me the program for the following requirements:
+
+Install a caching layer in front of your static assets to distribute across multiple geographic locations, ensuring fast load times by serving the content from nodes closer to users.",raw/Cloud Hosting/reference/task_3_code_2.py,raw/Cloud Hosting/generated/response_003.py
+Cloud Hosting,4,"Please give me the program for the following requirements:
+
+Set up a continuous integration server and configure jobs that automatically build and test your code changes. Implement continuous deployment to push verified code to staging and production environments.",raw/Cloud Hosting/reference/task_4_code_1.py,raw/Cloud Hosting/generated/response_004.py
+Cloud Hosting,4,"Please give me the program for the following requirements:
+
+Set up a continuous integration server and configure jobs that automatically build and test your code changes. Implement continuous deployment to push verified code to staging and production environments.",raw/Cloud Hosting/reference/task_4_code_2.py,raw/Cloud Hosting/generated/response_004.py
+Container Orchestration,0,"Please give me the program for the following requirements:
+
+Deploy containerized applications across multiple cloud environments using a management platform that abstracts cloud-specific configurations.",raw/Container Orchestration/reference/task_0_code_1.py,raw/Container Orchestration/generated/response_000.py
+Container Orchestration,0,"Please give me the program for the following requirements:
+
+Deploy containerized applications across multiple cloud environments using a management platform that abstracts cloud-specific configurations.",raw/Container Orchestration/reference/task_0_code_2.py,raw/Container Orchestration/generated/response_000.py
+Container Orchestration,1,"Please give me the program for the following requirements:
+
+Configure redundant and distributed container instances to ensure application uptime and handle failover automatically.",raw/Container Orchestration/reference/task_1_code_1.py,raw/Container Orchestration/generated/response_001.py
+Container Orchestration,1,"Please give me the program for the following requirements:
+
+Configure redundant and distributed container instances to ensure application uptime and handle failover automatically.",raw/Container Orchestration/reference/task_1_code_2.py,raw/Container Orchestration/generated/response_001.py
+Container Orchestration,2,"Please give me the program for the following requirements:
+
+Allocate and manage container resources dynamically based on real-time application demand to enhance performance and efficiency.",raw/Container Orchestration/reference/task_2_code_1.py,raw/Container Orchestration/generated/response_002.py
+Container Orchestration,2,"Please give me the program for the following requirements:
+
+Allocate and manage container resources dynamically based on real-time application demand to enhance performance and efficiency.",raw/Container Orchestration/reference/task_2_code_2.py,raw/Container Orchestration/generated/response_002.py
+Container Orchestration,3,"Please give me the program for the following requirements:
+
+Implement automated deployment pipelines that update containerized applications across environments without downtime.",raw/Container Orchestration/reference/task_3_code_1.py,raw/Container Orchestration/generated/response_003.py
+Container Orchestration,3,"Please give me the program for the following requirements:
+
+Implement automated deployment pipelines that update containerized applications across environments without downtime.",raw/Container Orchestration/reference/task_3_code_2.py,raw/Container Orchestration/generated/response_003.py
+Container Orchestration,4,"Please give me the program for the following requirements:
+
+Enforce stringent security policies for containers, including network policies, access controls, and vulnerability scanning.",raw/Container Orchestration/reference/task_4_code_1.py,raw/Container Orchestration/generated/response_004.py
+Container Orchestration,4,"Please give me the program for the following requirements:
+
+Enforce stringent security policies for containers, including network policies, access controls, and vulnerability scanning.",raw/Container Orchestration/reference/task_4_code_2.py,raw/Container Orchestration/generated/response_004.py
+Content Moderation & Filtering,0,"Please give me the program for the following requirements:
+
+Implement automated methods to detect and remove inappropriate posts or comments in an online forum setting. This involves using natural language processing to scan for offensive language, spam, or other violations of community guidelines.",raw/Content Moderation & Filtering/reference/task_0_code_1.py,raw/Content Moderation & Filtering/generated/response_000.py
+Content Moderation & Filtering,0,"Please give me the program for the following requirements:
+
+Implement automated methods to detect and remove inappropriate posts or comments in an online forum setting. This involves using natural language processing to scan for offensive language, spam, or other violations of community guidelines.",raw/Content Moderation & Filtering/reference/task_0_code_2.py,raw/Content Moderation & Filtering/generated/response_000.py
+Content Moderation & Filtering,1,"Please give me the program for the following requirements:
+
+Develop a system to filter and flag harmful content, including hate speech, harassment, or misinformation, using machine learning algorithms. This also includes prioritizing content for review based on severity and user reports.",raw/Content Moderation & Filtering/reference/task_1_code_1.py,raw/Content Moderation & Filtering/generated/response_001.py
+Content Moderation & Filtering,1,"Please give me the program for the following requirements:
+
+Develop a system to filter and flag harmful content, including hate speech, harassment, or misinformation, using machine learning algorithms. This also includes prioritizing content for review based on severity and user reports.",raw/Content Moderation & Filtering/reference/task_1_code_2.py,raw/Content Moderation & Filtering/generated/response_001.py
+Content Moderation & Filtering,2,"Please give me the program for the following requirements:
+
+Create a solution to identify and moderate fake or deceptive product reviews on an e-commerce platform by analyzing patterns in text data and user behavior to maintain the credibility of genuine customer feedback.",raw/Content Moderation & Filtering/reference/task_2_code_1.py,raw/Content Moderation & Filtering/generated/response_002.py
+Content Moderation & Filtering,2,"Please give me the program for the following requirements:
+
+Create a solution to identify and moderate fake or deceptive product reviews on an e-commerce platform by analyzing patterns in text data and user behavior to maintain the credibility of genuine customer feedback.",raw/Content Moderation & Filtering/reference/task_2_code_2.py,raw/Content Moderation & Filtering/generated/response_002.py
+Content Moderation & Filtering,3,"Please give me the program for the following requirements:
+
+Design a content moderation system to automatically detect and manage inappropriate video content, including explicit or violent material, through computer vision techniques and audio analysis.",raw/Content Moderation & Filtering/reference/task_3_code_1.py,raw/Content Moderation & Filtering/generated/response_003.py
+Content Moderation & Filtering,3,"Please give me the program for the following requirements:
+
+Design a content moderation system to automatically detect and manage inappropriate video content, including explicit or violent material, through computer vision techniques and audio analysis.",raw/Content Moderation & Filtering/reference/task_3_code_2.py,raw/Content Moderation & Filtering/generated/response_003.py
+Content Moderation & Filtering,4,"Please give me the program for the following requirements:
+
+Set up a filtering mechanism for reader comments on a news website to identify and manage inflammatory or abusive language, ensuring a respectful and constructive discussion environment.",raw/Content Moderation & Filtering/reference/task_4_code_1.py,raw/Content Moderation & Filtering/generated/response_004.py
+Content Moderation & Filtering,4,"Please give me the program for the following requirements:
+
+Set up a filtering mechanism for reader comments on a news website to identify and manage inflammatory or abusive language, ensuring a respectful and constructive discussion environment.",raw/Content Moderation & Filtering/reference/task_4_code_2.py,raw/Content Moderation & Filtering/generated/response_004.py
+Data Analysis,0,"Please give me the program for the following requirements:
+
+Analyze historical sales data to identify trends, seasonal patterns, and factors affecting sales using statistical techniques and visualization tools.",raw/Data Analysis/reference/task_0_code_1.py,raw/Data Analysis/generated/response_000.py
+Data Analysis,0,"Please give me the program for the following requirements:
+
+Analyze historical sales data to identify trends, seasonal patterns, and factors affecting sales using statistical techniques and visualization tools.",raw/Data Analysis/reference/task_0_code_2.py,raw/Data Analysis/generated/response_000.py
+Data Analysis,1,"Please give me the program for the following requirements:
+
+Use clustering algorithms to group customers based on purchasing behavior, demographics, and other relevant metrics to tailor marketing strategies.",raw/Data Analysis/reference/task_1_code_1.py,raw/Data Analysis/generated/response_001.py
+Data Analysis,1,"Please give me the program for the following requirements:
+
+Use clustering algorithms to group customers based on purchasing behavior, demographics, and other relevant metrics to tailor marketing strategies.",raw/Data Analysis/reference/task_1_code_2.py,raw/Data Analysis/generated/response_001.py
+Data Analysis,2,"Please give me the program for the following requirements:
+
+Evaluate marketing campaign data to measure effectiveness using key performance indicators (KPIs) such as conversion rate, ROI, and customer engagement.",raw/Data Analysis/reference/task_2_code_1.py,raw/Data Analysis/generated/response_002.py
+Data Analysis,2,"Please give me the program for the following requirements:
+
+Evaluate marketing campaign data to measure effectiveness using key performance indicators (KPIs) such as conversion rate, ROI, and customer engagement.",raw/Data Analysis/reference/task_2_code_2.py,raw/Data Analysis/generated/response_002.py
+Data Analysis,3,"Please give me the program for the following requirements:
+
+Apply predictive modeling to assess the impact of price changes on demand and revenue, enabling dynamic pricing strategies for maximum profitability.",raw/Data Analysis/reference/task_3_code_1.py,raw/Data Analysis/generated/response_003.py
+Data Analysis,3,"Please give me the program for the following requirements:
+
+Apply predictive modeling to assess the impact of price changes on demand and revenue, enabling dynamic pricing strategies for maximum profitability.",raw/Data Analysis/reference/task_3_code_2.py,raw/Data Analysis/generated/response_003.py
+Data Analysis,4,"Please give me the program for the following requirements:
+
+Analyze operational data to identify bottlenecks and inefficiencies, suggesting process improvements to reduce costs and enhance productivity.",raw/Data Analysis/reference/task_4_code_1.py,raw/Data Analysis/generated/response_004.py
+Data Analysis,4,"Please give me the program for the following requirements:
+
+Analyze operational data to identify bottlenecks and inefficiencies, suggesting process improvements to reduce costs and enhance productivity.",raw/Data Analysis/reference/task_4_code_2.py,raw/Data Analysis/generated/response_004.py
+Data Storage,0,"Please give me the program for the following requirements:
+
+Implement functionality to regularly store data backups in a secure, remote storage site accessible over the internet, ensuring data integrity and availability.",raw/Data Storage/reference/task_0_code_1.py,raw/Data Storage/generated/response_000.py
+Data Storage,0,"Please give me the program for the following requirements:
+
+Implement functionality to regularly store data backups in a secure, remote storage site accessible over the internet, ensuring data integrity and availability.",raw/Data Storage/reference/task_0_code_2.py,raw/Data Storage/generated/response_000.py
+Data Storage,1,"Please give me the program for the following requirements:
+
+Set up and manage a relational or non-relational database on a local server, supporting CRUD operations and ensuring data is properly indexed and optimized for performance.",raw/Data Storage/reference/task_1_code_1.py,raw/Data Storage/generated/response_001.py
+Data Storage,1,"Please give me the program for the following requirements:
+
+Set up and manage a relational or non-relational database on a local server, supporting CRUD operations and ensuring data is properly indexed and optimized for performance.",raw/Data Storage/reference/task_1_code_2.py,raw/Data Storage/generated/response_001.py
+Data Storage,2,"Please give me the program for the following requirements:
+
+Establish a file system that manages data across multiple locations and ensures that files are redundantly stored and accessible, optimizing for fault tolerance and speed.",raw/Data Storage/reference/task_2_code_1.py,raw/Data Storage/generated/response_002.py
+Data Storage,2,"Please give me the program for the following requirements:
+
+Establish a file system that manages data across multiple locations and ensures that files are redundantly stored and accessible, optimizing for fault tolerance and speed.",raw/Data Storage/reference/task_2_code_2.py,raw/Data Storage/generated/response_002.py
+Data Storage,3,"Please give me the program for the following requirements:
+
+Create a solution that systematically processes and stores infrequently accessed data, ensuring data is retained over long periods with minimal cost and retrieval complexity.",raw/Data Storage/reference/task_3_code_1.py,raw/Data Storage/generated/response_003.py
+Data Storage,3,"Please give me the program for the following requirements:
+
+Create a solution that systematically processes and stores infrequently accessed data, ensuring data is retained over long periods with minimal cost and retrieval complexity.",raw/Data Storage/reference/task_3_code_2.py,raw/Data Storage/generated/response_003.py
+Data Storage,4,"Please give me the program for the following requirements:
+
+Design a system to collect, process, and store streaming data from IoT devices, ensuring timely and reliable data capture for analysis and monitoring.",raw/Data Storage/reference/task_4_code_1.py,raw/Data Storage/generated/response_004.py
+Data Storage,4,"Please give me the program for the following requirements:
+
+Design a system to collect, process, and store streaming data from IoT devices, ensuring timely and reliable data capture for analysis and monitoring.",raw/Data Storage/reference/task_4_code_2.py,raw/Data Storage/generated/response_004.py
+Data Visualization,0,"Please give me the program for the following requirements:
+
+Analyze customer data to group individuals with similar characteristics for targeted marketing strategies. Use clustering algorithms to find key segments and visualize these segments to gain insights into customer behaviors.",raw/Data Visualization/reference/task_0_code_1.py,raw/Data Visualization/generated/response_000.py
+Data Visualization,0,"Please give me the program for the following requirements:
+
+Analyze customer data to group individuals with similar characteristics for targeted marketing strategies. Use clustering algorithms to find key segments and visualize these segments to gain insights into customer behaviors.",raw/Data Visualization/reference/task_0_code_2.py,raw/Data Visualization/generated/response_000.py
+Data Visualization,1,"Please give me the program for the following requirements:
+
+Develop models to predict future sales trends based on historical sales data. Implement time series analysis to identify patterns and visualize the sales trajectory for informed decision-making.",raw/Data Visualization/reference/task_1_code_1.py,raw/Data Visualization/generated/response_001.py
+Data Visualization,1,"Please give me the program for the following requirements:
+
+Develop models to predict future sales trends based on historical sales data. Implement time series analysis to identify patterns and visualize the sales trajectory for informed decision-making.",raw/Data Visualization/reference/task_1_code_2.py,raw/Data Visualization/generated/response_001.py
+Data Visualization,2,"Please give me the program for the following requirements:
+
+Examine website traffic data to understand visitor behavior. Use statistical techniques to identify peak traffic times, user demographics, and engagement metrics. Create visualizations to present these insights clearly.",raw/Data Visualization/reference/task_2_code_1.py,raw/Data Visualization/generated/response_002.py
+Data Visualization,2,"Please give me the program for the following requirements:
+
+Examine website traffic data to understand visitor behavior. Use statistical techniques to identify peak traffic times, user demographics, and engagement metrics. Create visualizations to present these insights clearly.",raw/Data Visualization/reference/task_2_code_2.py,raw/Data Visualization/generated/response_002.py
+Data Visualization,3,"Please give me the program for the following requirements:
+
+Analyze social media posts and comments to determine public sentiment about a brand or product. Use natural language processing to identify positive, negative, or neutral sentiments and visualize sentiment trends over time.",raw/Data Visualization/reference/task_3_code_1.py,raw/Data Visualization/generated/response_003.py
+Data Visualization,3,"Please give me the program for the following requirements:
+
+Analyze social media posts and comments to determine public sentiment about a brand or product. Use natural language processing to identify positive, negative, or neutral sentiments and visualize sentiment trends over time.",raw/Data Visualization/reference/task_3_code_2.py,raw/Data Visualization/generated/response_003.py
+Data Visualization,4,"Please give me the program for the following requirements:
+
+Build a system to suggest products to customers based on their past behavior and preferences. Use collaborative filtering and other recommendation algorithms to analyze user data and generate personalized product recommendations.",raw/Data Visualization/reference/task_4_code_1.py,raw/Data Visualization/generated/response_004.py
+Data Visualization,4,"Please give me the program for the following requirements:
+
+Build a system to suggest products to customers based on their past behavior and preferences. Use collaborative filtering and other recommendation algorithms to analyze user data and generate personalized product recommendations.",raw/Data Visualization/reference/task_4_code_2.py,raw/Data Visualization/generated/response_004.py
+E-commerce,0,"Please give me the program for the following requirements:
+
+Improve the user interface and user experience by adding dynamic content loading, real-time price updates, and rich product descriptions. Implement AJAX calls to fetch additional product details without reloading the page.",raw/E-commerce/reference/task_0_code_1.py,raw/E-commerce/generated/response_000.py
+E-commerce,0,"Please give me the program for the following requirements:
+
+Improve the user interface and user experience by adding dynamic content loading, real-time price updates, and rich product descriptions. Implement AJAX calls to fetch additional product details without reloading the page.",raw/E-commerce/reference/task_0_code_2.py,raw/E-commerce/generated/response_000.py
+E-commerce,1,"Please give me the program for the following requirements:
+
+Implement client-side caching to preserve the cart state, minimize server requests, and reduce page load times. Ensure seamless updates using AJAX for adding or removing items, and calculate totals dynamically.",raw/E-commerce/reference/task_1_code_1.py,raw/E-commerce/generated/response_001.py
+E-commerce,1,"Please give me the program for the following requirements:
+
+Implement client-side caching to preserve the cart state, minimize server requests, and reduce page load times. Ensure seamless updates using AJAX for adding or removing items, and calculate totals dynamically.",raw/E-commerce/reference/task_1_code_2.py,raw/E-commerce/generated/response_001.py
+E-commerce,2,"Please give me the program for the following requirements:
+
+Create a multi-step checkout process with clear progress indicators. Use server-side validation for data accuracy and implement secure payment processing. Enhance user experience by allowing guest checkouts.",raw/E-commerce/reference/task_2_code_1.py,raw/E-commerce/generated/response_002.py
+E-commerce,2,"Please give me the program for the following requirements:
+
+Create a multi-step checkout process with clear progress indicators. Use server-side validation for data accuracy and implement secure payment processing. Enhance user experience by allowing guest checkouts.",raw/E-commerce/reference/task_2_code_2.py,raw/E-commerce/generated/response_002.py
+E-commerce,3,"Please give me the program for the following requirements:
+
+Develop functionality for user registration, login, and profile management. Implement server-side authentication and authorization, and manage user session states securely.",raw/E-commerce/reference/task_3_code_1.py,raw/E-commerce/generated/response_003.py
+E-commerce,3,"Please give me the program for the following requirements:
+
+Develop functionality for user registration, login, and profile management. Implement server-side authentication and authorization, and manage user session states securely.",raw/E-commerce/reference/task_3_code_2.py,raw/E-commerce/generated/response_003.py
+E-commerce,4,"Please give me the program for the following requirements:
+
+Build a system that analyzes user behavior and preferences to suggest products. Use collaborative filtering and machine learning techniques to generate personalized recommendations for users on the platform.",raw/E-commerce/reference/task_4_code_1.py,raw/E-commerce/generated/response_004.py
+E-commerce,4,"Please give me the program for the following requirements:
+
+Build a system that analyzes user behavior and preferences to suggest products. Use collaborative filtering and machine learning techniques to generate personalized recommendations for users on the platform.",raw/E-commerce/reference/task_4_code_2.py,raw/E-commerce/generated/response_004.py
+Email Sending - Email Marketing,0,"Please give me the program for the following requirements:
+
+Write code to automatically send promotional emails to a list of subscribers, ensuring that emails are personalized based on customer data and time zone.",raw/Email Sending - Email Marketing/reference/task_0_code_1.py,raw/Email Sending - Email Marketing/generated/response_000.py
+Email Sending - Email Marketing,0,"Please give me the program for the following requirements:
+
+Write code to automatically send promotional emails to a list of subscribers, ensuring that emails are personalized based on customer data and time zone.",raw/Email Sending - Email Marketing/reference/task_0_code_2.py,raw/Email Sending - Email Marketing/generated/response_000.py
+Email Sending - Email Marketing,1,"Please give me the program for the following requirements:
+
+Create an automated sequence of emails for new subscribers to guide them through your products or services and engage them with valuable content over time.",raw/Email Sending - Email Marketing/reference/task_1_code_1.py,raw/Email Sending - Email Marketing/generated/response_001.py
+Email Sending - Email Marketing,1,"Please give me the program for the following requirements:
+
+Create an automated sequence of emails for new subscribers to guide them through your products or services and engage them with valuable content over time.",raw/Email Sending - Email Marketing/reference/task_1_code_2.py,raw/Email Sending - Email Marketing/generated/response_001.py
+Email Sending - Email Marketing,2,"Please give me the program for the following requirements:
+
+Implement a system to detect when users abandon their shopping carts and trigger follow-up emails to encourage them to complete their purchases, including personalized product recommendations.",raw/Email Sending - Email Marketing/reference/task_2_code_1.py,raw/Email Sending - Email Marketing/generated/response_002.py
+Email Sending - Email Marketing,2,"Please give me the program for the following requirements:
+
+Implement a system to detect when users abandon their shopping carts and trigger follow-up emails to encourage them to complete their purchases, including personalized product recommendations.",raw/Email Sending - Email Marketing/reference/task_2_code_2.py,raw/Email Sending - Email Marketing/generated/response_002.py
+Email Sending - Email Marketing,3,"Please give me the program for the following requirements:
+
+Develop a feature to handle new newsletter subscriptions and send a confirmation email to subscribers, along with an option to manage their email preferences.",raw/Email Sending - Email Marketing/reference/task_3_code_1.py,raw/Email Sending - Email Marketing/generated/response_003.py
+Email Sending - Email Marketing,3,"Please give me the program for the following requirements:
+
+Develop a feature to handle new newsletter subscriptions and send a confirmation email to subscribers, along with an option to manage their email preferences.",raw/Email Sending - Email Marketing/reference/task_3_code_2.py,raw/Email Sending - Email Marketing/generated/response_003.py
+Email Sending - Email Marketing,4,"Please give me the program for the following requirements:
+
+Set up an event invitation email system that sends invites to a list of attendees, with the capability to track RSVPs and send reminders close to the event date.",raw/Email Sending - Email Marketing/reference/task_4_code_1.py,raw/Email Sending - Email Marketing/generated/response_004.py
+Email Sending - Email Marketing,4,"Please give me the program for the following requirements:
+
+Set up an event invitation email system that sends invites to a list of attendees, with the capability to track RSVPs and send reminders close to the event date.",raw/Email Sending - Email Marketing/reference/task_4_code_2.py,raw/Email Sending - Email Marketing/generated/response_004.py
+File Storage & Management,0,"Please give me the program for the following requirements:
+
+Develop a solution to integrate a cloud storage service, enabling seamless file uploads, downloads, and metadata management. Ensure compatibility with APIs for data transfer and synchronization across multiple platforms.",raw/File Storage & Management/reference/task_0_code_1.py,raw/File Storage & Management/generated/response_000.py
+File Storage & Management,0,"Please give me the program for the following requirements:
+
+Develop a solution to integrate a cloud storage service, enabling seamless file uploads, downloads, and metadata management. Ensure compatibility with APIs for data transfer and synchronization across multiple platforms.",raw/File Storage & Management/reference/task_0_code_2.py,raw/File Storage & Management/generated/response_000.py
+File Storage & Management,1,"Please give me the program for the following requirements:
+
+Implement a version control system for files, allowing users to save, track, and restore previous versions. The solution should manage storage efficiently and provide an interface for viewing the version history.",raw/File Storage & Management/reference/task_1_code_1.py,raw/File Storage & Management/generated/response_001.py
+File Storage & Management,1,"Please give me the program for the following requirements:
+
+Implement a version control system for files, allowing users to save, track, and restore previous versions. The solution should manage storage efficiently and provide an interface for viewing the version history.",raw/File Storage & Management/reference/task_1_code_2.py,raw/File Storage & Management/generated/response_001.py
+File Storage & Management,2,"Please give me the program for the following requirements:
+
+Create a robust access management system to define and enforce user roles and permissions. This system should handle authentication, authorization, and the delegation of rights to ensure secure file access.",raw/File Storage & Management/reference/task_2_code_1.py,raw/File Storage & Management/generated/response_002.py
+File Storage & Management,2,"Please give me the program for the following requirements:
+
+Create a robust access management system to define and enforce user roles and permissions. This system should handle authentication, authorization, and the delegation of rights to ensure secure file access.",raw/File Storage & Management/reference/task_2_code_2.py,raw/File Storage & Management/generated/response_002.py
+File Storage & Management,3,"Please give me the program for the following requirements:
+
+Introduce a method to encrypt files both in transit and at rest to protect sensitive data. The solution should support encryption standards and key management, ensuring data integrity and confidentiality.",raw/File Storage & Management/reference/task_3_code_1.py,raw/File Storage & Management/generated/response_003.py
+File Storage & Management,3,"Please give me the program for the following requirements:
+
+Introduce a method to encrypt files both in transit and at rest to protect sensitive data. The solution should support encryption standards and key management, ensuring data integrity and confidentiality.",raw/File Storage & Management/reference/task_3_code_2.py,raw/File Storage & Management/generated/response_003.py
+File Storage & Management,4,"Please give me the program for the following requirements:
+
+Design a scalable storage architecture to handle increasing data volumes and user demands. Focus on optimizing performance for file operations and maintaining low latency for both small and large-scale file transactions.",raw/File Storage & Management/reference/task_4_code_1.py,raw/File Storage & Management/generated/response_004.py
+File Storage & Management,4,"Please give me the program for the following requirements:
+
+Design a scalable storage architecture to handle increasing data volumes and user demands. Focus on optimizing performance for file operations and maintaining low latency for both small and large-scale file transactions.",raw/File Storage & Management/reference/task_4_code_2.py,raw/File Storage & Management/generated/response_004.py
+Geolocation & Mapping,0,"Please give me the program for the following requirements:
+
+Develop an application that detects user's geographic location and delivers targeted advertisements based on their proximity to nearby businesses. This requires accessing real-time location data and integrating with local business information.",raw/Geolocation & Mapping/reference/task_0_code_1.py,raw/Geolocation & Mapping/generated/response_000.py
+Geolocation & Mapping,0,"Please give me the program for the following requirements:
+
+Develop an application that detects user's geographic location and delivers targeted advertisements based on their proximity to nearby businesses. This requires accessing real-time location data and integrating with local business information.",raw/Geolocation & Mapping/reference/task_0_code_2.py,raw/Geolocation & Mapping/generated/response_000.py
+Geolocation & Mapping,1,"Please give me the program for the following requirements:
+
+Create a system to optimize delivery routes for a fleet of vehicles, taking into account factors like traffic conditions, distances, and delivery priorities. The goal is to minimize travel time and fuel consumption while ensuring timely deliveries.",raw/Geolocation & Mapping/reference/task_1_code_1.py,raw/Geolocation & Mapping/generated/response_001.py
+Geolocation & Mapping,1,"Please give me the program for the following requirements:
+
+Create a system to optimize delivery routes for a fleet of vehicles, taking into account factors like traffic conditions, distances, and delivery priorities. The goal is to minimize travel time and fuel consumption while ensuring timely deliveries.",raw/Geolocation & Mapping/reference/task_1_code_2.py,raw/Geolocation & Mapping/generated/response_001.py
+Geolocation & Mapping,2,"Please give me the program for the following requirements:
+
+Implement a solution to provide real-time location tracking for emergency responders, facilitating quick navigation to incident sites. This involves accessing precise location data and integrating with emergency dispatch systems.",raw/Geolocation & Mapping/reference/task_2_code_1.py,raw/Geolocation & Mapping/generated/response_002.py
+Geolocation & Mapping,2,"Please give me the program for the following requirements:
+
+Implement a solution to provide real-time location tracking for emergency responders, facilitating quick navigation to incident sites. This involves accessing precise location data and integrating with emergency dispatch systems.",raw/Geolocation & Mapping/reference/task_2_code_2.py,raw/Geolocation & Mapping/generated/response_002.py
+Geolocation & Mapping,3,"Please give me the program for the following requirements:
+
+Design an application that records users' physical activities, such as running or cycling, by tracking their routes and calculating metrics like distance and speed. This requires continuous location monitoring and data analysis.",raw/Geolocation & Mapping/reference/task_3_code_1.py,raw/Geolocation & Mapping/generated/response_003.py
+Geolocation & Mapping,3,"Please give me the program for the following requirements:
+
+Design an application that records users' physical activities, such as running or cycling, by tracking their routes and calculating metrics like distance and speed. This requires continuous location monitoring and data analysis.",raw/Geolocation & Mapping/reference/task_3_code_2.py,raw/Geolocation & Mapping/generated/response_003.py
+Geolocation & Mapping,4,"Please give me the program for the following requirements:
+
+Build an application that overlays real-world navigation instructions on a live camera feed, guiding users to their destination. This involves using geolocation data and merging it with augmented reality technology to provide immersive navigation experiences.",raw/Geolocation & Mapping/reference/task_4_code_1.py,raw/Geolocation & Mapping/generated/response_004.py
+Geolocation & Mapping,4,"Please give me the program for the following requirements:
+
+Build an application that overlays real-world navigation instructions on a live camera feed, guiding users to their destination. This involves using geolocation data and merging it with augmented reality technology to provide immersive navigation experiences.",raw/Geolocation & Mapping/reference/task_4_code_2.py,raw/Geolocation & Mapping/generated/response_004.py
+Image Processing,0,"Please give me the program for the following requirements:
+
+Develop a program to identify and locate human faces within digital images.",raw/Image Processing/reference/task_0_code_1.py,raw/Image Processing/generated/response_000.py
+Image Processing,0,"Please give me the program for the following requirements:
+
+Develop a program to identify and locate human faces within digital images.",raw/Image Processing/reference/task_0_code_2.py,raw/Image Processing/generated/response_000.py
+Image Processing,1,"Please give me the program for the following requirements:
+
+Write code to improve the quality and features of an image by adjusting its brightness, contrast, and sharpness.",raw/Image Processing/reference/task_1_code_1.py,raw/Image Processing/generated/response_001.py
+Image Processing,1,"Please give me the program for the following requirements:
+
+Write code to improve the quality and features of an image by adjusting its brightness, contrast, and sharpness.",raw/Image Processing/reference/task_1_code_2.py,raw/Image Processing/generated/response_001.py
+Image Processing,2,"Please give me the program for the following requirements:
+
+Implement a solution that identifies specific objects within an image and categorizes them accordingly.",raw/Image Processing/reference/task_2_code_1.py,raw/Image Processing/generated/response_002.py
+Image Processing,2,"Please give me the program for the following requirements:
+
+Implement a solution that identifies specific objects within an image and categorizes them accordingly.",raw/Image Processing/reference/task_2_code_2.py,raw/Image Processing/generated/response_002.py
+Image Processing,3,"Please give me the program for the following requirements:
+
+Create a function that reduces the file size of an image while maintaining its quality, using techniques such as lossy or lossless compression.",raw/Image Processing/reference/task_3_code_1.py,raw/Image Processing/generated/response_003.py
+Image Processing,3,"Please give me the program for the following requirements:
+
+Create a function that reduces the file size of an image while maintaining its quality, using techniques such as lossy or lossless compression.",raw/Image Processing/reference/task_3_code_2.py,raw/Image Processing/generated/response_003.py
+Image Processing,4,"Please give me the program for the following requirements:
+
+Design an algorithm to divide an image into multiple parts or regions to simplify analysis or change of representation.",raw/Image Processing/reference/task_4_code_1.py,raw/Image Processing/generated/response_004.py
+Image Processing,4,"Please give me the program for the following requirements:
+
+Design an algorithm to divide an image into multiple parts or regions to simplify analysis or change of representation.",raw/Image Processing/reference/task_4_code_2.py,raw/Image Processing/generated/response_004.py
+Machine Learning - AI Model Deployment,0,"Please give me the program for the following requirements:
+
+Develop a RESTful API using a web framework. Serve the machine learning model through an endpoint that accepts input data and returns predictions. Ensure the API can handle concurrent requests and includes error handling.",raw/Machine Learning - AI Model Deployment/reference/task_0_code_1.py,raw/Machine Learning - AI Model Deployment/generated/response_000.py
+Machine Learning - AI Model Deployment,0,"Please give me the program for the following requirements:
+
+Develop a RESTful API using a web framework. Serve the machine learning model through an endpoint that accepts input data and returns predictions. Ensure the API can handle concurrent requests and includes error handling.",raw/Machine Learning - AI Model Deployment/reference/task_0_code_2.py,raw/Machine Learning - AI Model Deployment/generated/response_000.py
+Machine Learning - AI Model Deployment,1,"Please give me the program for the following requirements:
+
+Package the machine learning model and dependencies using a containerization tool. Deploy the container to a cloud service that supports container orchestration. Set up monitoring and scaling rules to adjust to varying loads.",raw/Machine Learning - AI Model Deployment/reference/task_1_code_1.py,raw/Machine Learning - AI Model Deployment/generated/response_001.py
+Machine Learning - AI Model Deployment,1,"Please give me the program for the following requirements:
+
+Package the machine learning model and dependencies using a containerization tool. Deploy the container to a cloud service that supports container orchestration. Set up monitoring and scaling rules to adjust to varying loads.",raw/Machine Learning - AI Model Deployment/reference/task_1_code_2.py,raw/Machine Learning - AI Model Deployment/generated/response_001.py
+Machine Learning - AI Model Deployment,2,"Please give me the program for the following requirements:
+
+Optimize the machine learning model for resource-constrained environments. Develop a lightweight application that loads and runs the model inference on edge hardware like GPUs. Ensure minimal latency and offline functionality.",raw/Machine Learning - AI Model Deployment/reference/task_2_code_1.py,raw/Machine Learning - AI Model Deployment/generated/response_002.py
+Machine Learning - AI Model Deployment,2,"Please give me the program for the following requirements:
+
+Optimize the machine learning model for resource-constrained environments. Develop a lightweight application that loads and runs the model inference on edge hardware like GPUs. Ensure minimal latency and offline functionality.",raw/Machine Learning - AI Model Deployment/reference/task_2_code_2.py,raw/Machine Learning - AI Model Deployment/generated/response_002.py
+Machine Learning - AI Model Deployment,3,"Please give me the program for the following requirements:
+
+Convert the machine learning model into a format compatible with mobile devices. Integrate the converted model within a mobile application framework. Ensure the application efficiently uses device resources and provides real-time predictions.",raw/Machine Learning - AI Model Deployment/reference/task_3_code_1.py,raw/Machine Learning - AI Model Deployment/generated/response_003.py
+Machine Learning - AI Model Deployment,3,"Please give me the program for the following requirements:
+
+Convert the machine learning model into a format compatible with mobile devices. Integrate the converted model within a mobile application framework. Ensure the application efficiently uses device resources and provides real-time predictions.",raw/Machine Learning - AI Model Deployment/reference/task_3_code_2.py,raw/Machine Learning - AI Model Deployment/generated/response_003.py
+Natural Language Processing,0,"Please give me the program for the following requirements:
+
+Analyze a text to determine the sentiment or emotional tone, such as positive, negative, or neutral.",raw/Natural Language Processing/reference/task_0_code_1.py,raw/Natural Language Processing/generated/response_000.py
+Natural Language Processing,0,"Please give me the program for the following requirements:
+
+Analyze a text to determine the sentiment or emotional tone, such as positive, negative, or neutral.",raw/Natural Language Processing/reference/task_0_code_2.py,raw/Natural Language Processing/generated/response_000.py
+Natural Language Processing,1,"Please give me the program for the following requirements:
+
+Create an interactive system that can understand user input and respond conversationally.",raw/Natural Language Processing/reference/task_1_code_1.py,raw/Natural Language Processing/generated/response_001.py
+Natural Language Processing,1,"Please give me the program for the following requirements:
+
+Create an interactive system that can understand user input and respond conversationally.",raw/Natural Language Processing/reference/task_1_code_2.py,raw/Natural Language Processing/generated/response_001.py
+Natural Language Processing,2,"Please give me the program for the following requirements:
+
+Identify and classify key entities in text like names, dates, and organizations.",raw/Natural Language Processing/reference/task_2_code_1.py,raw/Natural Language Processing/generated/response_002.py
+Natural Language Processing,2,"Please give me the program for the following requirements:
+
+Identify and classify key entities in text like names, dates, and organizations.",raw/Natural Language Processing/reference/task_2_code_2.py,raw/Natural Language Processing/generated/response_002.py
+Natural Language Processing,3,"Please give me the program for the following requirements:
+
+Automatically translate text from one language to another, preserving meaning.",raw/Natural Language Processing/reference/task_3_code_1.py,raw/Natural Language Processing/generated/response_003.py
+Natural Language Processing,3,"Please give me the program for the following requirements:
+
+Automatically translate text from one language to another, preserving meaning.",raw/Natural Language Processing/reference/task_3_code_2.py,raw/Natural Language Processing/generated/response_003.py
+Natural Language Processing,4,"Please give me the program for the following requirements:
+
+Produce a concise, coherent summary of a longer text document.",raw/Natural Language Processing/reference/task_4_code_1.py,raw/Natural Language Processing/generated/response_004.py
+Natural Language Processing,4,"Please give me the program for the following requirements:
+
+Produce a concise, coherent summary of a longer text document.",raw/Natural Language Processing/reference/task_4_code_2.py,raw/Natural Language Processing/generated/response_004.py
+OCR (Optical Character Recognition),0,"Please give me the program for the following requirements:
+
+Extracts and digitizes text from scanned or photographed invoices, capturing details such as item descriptions, prices, invoice numbers, dates, and vendor information for easy data management and integration.",raw/OCR (Optical Character Recognition)/reference/task_0_code_1.py,raw/OCR (Optical Character Recognition)/generated/response_000.py
+OCR (Optical Character Recognition),0,"Please give me the program for the following requirements:
+
+Extracts and digitizes text from scanned or photographed invoices, capturing details such as item descriptions, prices, invoice numbers, dates, and vendor information for easy data management and integration.",raw/OCR (Optical Character Recognition)/reference/task_0_code_2.py,raw/OCR (Optical Character Recognition)/generated/response_000.py
+OCR (Optical Character Recognition),2,"Please give me the program for the following requirements:
+
+Interprets and converts handwritten text from images or digital input into machine-readable text, applicable in note-taking apps, postal mail sorting, and form digitization.",raw/OCR (Optical Character Recognition)/reference/task_2_code_1.py,raw/OCR (Optical Character Recognition)/generated/response_002.py
+OCR (Optical Character Recognition),2,"Please give me the program for the following requirements:
+
+Interprets and converts handwritten text from images or digital input into machine-readable text, applicable in note-taking apps, postal mail sorting, and form digitization.",raw/OCR (Optical Character Recognition)/reference/task_2_code_2.py,raw/OCR (Optical Character Recognition)/generated/response_002.py
+OCR (Optical Character Recognition),3,"Please give me the program for the following requirements:
+
+Extracts personal information from identity cards by recognizing and digitizing text such as names, birthdates, addresses, and identification numbers for verification and authentication purposes.",raw/OCR (Optical Character Recognition)/reference/task_3_code_1.py,raw/OCR (Optical Character Recognition)/generated/response_003.py
+OCR (Optical Character Recognition),3,"Please give me the program for the following requirements:
+
+Extracts personal information from identity cards by recognizing and digitizing text such as names, birthdates, addresses, and identification numbers for verification and authentication purposes.",raw/OCR (Optical Character Recognition)/reference/task_3_code_2.py,raw/OCR (Optical Character Recognition)/generated/response_003.py
+Payment Processing,0,"Please give me the program for the following requirements:
+
+Implement a system to process payments using credit cards securely. Ensure compliance with industry standards and handle transactions, verifications, and confirmations.",raw/Payment Processing/reference/task_0_code_1.py,raw/Payment Processing/generated/response_000.py
+Payment Processing,0,"Please give me the program for the following requirements:
+
+Implement a system to process payments using credit cards securely. Ensure compliance with industry standards and handle transactions, verifications, and confirmations.",raw/Payment Processing/reference/task_0_code_2.py,raw/Payment Processing/generated/response_000.py
+Payment Processing,1,"Please give me the program for the following requirements:
+
+Develop functionality that allows users to set up automatic payments on a regular schedule. Include options for users to manage their subscriptions and cancel if needed.",raw/Payment Processing/reference/task_1_code_1.py,raw/Payment Processing/generated/response_001.py
+Payment Processing,1,"Please give me the program for the following requirements:
+
+Develop functionality that allows users to set up automatic payments on a regular schedule. Include options for users to manage their subscriptions and cancel if needed.",raw/Payment Processing/reference/task_1_code_2.py,raw/Payment Processing/generated/response_001.py
+Payment Processing,2,"Please give me the program for the following requirements:
+
+Create an interface to integrate payment features within mobile applications, supporting mobile wallets and ensuring seamless and secure transactions.",raw/Payment Processing/reference/task_2_code_1.py,raw/Payment Processing/generated/response_002.py
+Payment Processing,2,"Please give me the program for the following requirements:
+
+Create an interface to integrate payment features within mobile applications, supporting mobile wallets and ensuring seamless and secure transactions.",raw/Payment Processing/reference/task_2_code_2.py,raw/Payment Processing/generated/response_002.py
+Payment Processing,3,"Please give me the program for the following requirements:
+
+Enable the processing of payments across different countries, handling various currencies, and ensuring compliance with international financial regulations.",raw/Payment Processing/reference/task_3_code_1.py,raw/Payment Processing/generated/response_003.py
+Payment Processing,3,"Please give me the program for the following requirements:
+
+Enable the processing of payments across different countries, handling various currencies, and ensuring compliance with international financial regulations.",raw/Payment Processing/reference/task_3_code_2.py,raw/Payment Processing/generated/response_003.py
+Payment Processing,4,"Please give me the program for the following requirements:
+
+Design a system to manage and process refunds efficiently, allowing users to request refunds and ensuring timely updates to their payment records.",raw/Payment Processing/reference/task_4_code_1.py,raw/Payment Processing/generated/response_004.py
+Payment Processing,4,"Please give me the program for the following requirements:
+
+Design a system to manage and process refunds efficiently, allowing users to request refunds and ensuring timely updates to their payment records.",raw/Payment Processing/reference/task_4_code_2.py,raw/Payment Processing/generated/response_004.py
+Push Notifications,0,"Please give me the program for the following requirements:
+
+Trigger a notification when a new message is received in the app, displaying the sender and a snippet of the message.",raw/Push Notifications/reference/task_0_code_1.py,raw/Push Notifications/generated/response_000.py
+Push Notifications,0,"Please give me the program for the following requirements:
+
+Trigger a notification when a new message is received in the app, displaying the sender and a snippet of the message.",raw/Push Notifications/reference/task_0_code_2.py,raw/Push Notifications/generated/response_000.py
+Push Notifications,1,"Please give me the program for the following requirements:
+
+Send a notification to inform users about a new version of the app with improvements and bug fixes.",raw/Push Notifications/reference/task_1_code_1.py,raw/Push Notifications/generated/response_001.py
+Push Notifications,1,"Please give me the program for the following requirements:
+
+Send a notification to inform users about a new version of the app with improvements and bug fixes.",raw/Push Notifications/reference/task_1_code_2.py,raw/Push Notifications/generated/response_001.py
+Push Notifications,2,"Please give me the program for the following requirements:
+
+Notify users about an upcoming event they are subscribed to, including the event time and details.",raw/Push Notifications/reference/task_2_code_1.py,raw/Push Notifications/generated/response_002.py
+Push Notifications,2,"Please give me the program for the following requirements:
+
+Notify users about an upcoming event they are subscribed to, including the event time and details.",raw/Push Notifications/reference/task_2_code_2.py,raw/Push Notifications/generated/response_002.py
+Push Notifications,3,"Please give me the program for the following requirements:
+
+Dispatch an urgent notification when there is a potential security issue with the user's account, prompting a password change.",raw/Push Notifications/reference/task_3_code_1.py,raw/Push Notifications/generated/response_003.py
+Push Notifications,3,"Please give me the program for the following requirements:
+
+Dispatch an urgent notification when there is a potential security issue with the user's account, prompting a password change.",raw/Push Notifications/reference/task_3_code_2.py,raw/Push Notifications/generated/response_003.py
+Push Notifications,4,"Please give me the program for the following requirements:
+
+Push a notification about a promotional offer or discount available for a limited time, encouraging immediate action.",raw/Push Notifications/reference/task_4_code_1.py,raw/Push Notifications/generated/response_004.py
+Push Notifications,4,"Please give me the program for the following requirements:
+
+Push a notification about a promotional offer or discount available for a limited time, encouraging immediate action.",raw/Push Notifications/reference/task_4_code_2.py,raw/Push Notifications/generated/response_004.py
+Serverless Deployment,0,"Please give me the program for the following requirements:
+
+Set up a function to process and analyze images upon receipt through an HTTP trigger, utilizing an open-source image handling library for tasks such as resizing and filtering.",raw/Serverless Deployment/reference/task_0_code_1.py,raw/Serverless Deployment/generated/response_000.py
+Serverless Deployment,0,"Please give me the program for the following requirements:
+
+Set up a function to process and analyze images upon receipt through an HTTP trigger, utilizing an open-source image handling library for tasks such as resizing and filtering.",raw/Serverless Deployment/reference/task_0_code_2.py,raw/Serverless Deployment/generated/response_000.py
+Serverless Deployment,1,"Please give me the program for the following requirements:
+
+Implement a real-time event-driven function that processes data feeds as they arrive, using an open-source platform for handling data streams and applying transformations.",raw/Serverless Deployment/reference/task_1_code_1.py,raw/Serverless Deployment/generated/response_001.py
+Serverless Deployment,1,"Please give me the program for the following requirements:
+
+Implement a real-time event-driven function that processes data feeds as they arrive, using an open-source platform for handling data streams and applying transformations.",raw/Serverless Deployment/reference/task_1_code_2.py,raw/Serverless Deployment/generated/response_001.py
+Serverless Deployment,2,"Please give me the program for the following requirements:
+
+Create a time-triggered function that generates reports on a scheduled basis, pulling data from a database and formatting it into a document using a suitable library for report generation.",raw/Serverless Deployment/reference/task_2_code_1.py,raw/Serverless Deployment/generated/response_002.py
+Serverless Deployment,2,"Please give me the program for the following requirements:
+
+Create a time-triggered function that generates reports on a scheduled basis, pulling data from a database and formatting it into a document using a suitable library for report generation.",raw/Serverless Deployment/reference/task_2_code_2.py,raw/Serverless Deployment/generated/response_002.py
+Serverless Deployment,3,"Please give me the program for the following requirements:
+
+Develop a function that listens for incoming webhooks at a defined endpoint, parses the payload, and stores the relevant data into a database for further processing.",raw/Serverless Deployment/reference/task_3_code_1.py,raw/Serverless Deployment/generated/response_003.py
+Serverless Deployment,3,"Please give me the program for the following requirements:
+
+Develop a function that listens for incoming webhooks at a defined endpoint, parses the payload, and stores the relevant data into a database for further processing.",raw/Serverless Deployment/reference/task_3_code_2.py,raw/Serverless Deployment/generated/response_003.py
+Serverless Deployment,4,"Please give me the program for the following requirements:
+
+Construct a backend function to handle chatbot requests, interfacing with a machine learning model to generate responses based on user inputs.",raw/Serverless Deployment/reference/task_4_code_1.py,raw/Serverless Deployment/generated/response_004.py
+Serverless Deployment,4,"Please give me the program for the following requirements:
+
+Construct a backend function to handle chatbot requests, interfacing with a machine learning model to generate responses based on user inputs.",raw/Serverless Deployment/reference/task_4_code_2.py,raw/Serverless Deployment/generated/response_004.py
+SMS & Communication APIs,0,"Please give me the program for the following requirements:
+
+Implement a feature that sends a verification code to users via SMS when they attempt to log in, ensuring that access is only granted after the correct code is entered.",raw/SMS & Communication APIs/reference/task_0_code_1.py,raw/SMS & Communication APIs/generated/response_000.py
+SMS & Communication APIs,0,"Please give me the program for the following requirements:
+
+Implement a feature that sends a verification code to users via SMS when they attempt to log in, ensuring that access is only granted after the correct code is entered.",raw/SMS & Communication APIs/reference/task_0_code_2.py,raw/SMS & Communication APIs/generated/response_000.py
+SMS & Communication APIs,1,"Please give me the program for the following requirements:
+
+Develop a system that automatically sends SMS reminders to customers about their upcoming appointments, helping to reduce no-shows and improve schedule management.",raw/SMS & Communication APIs/reference/task_1_code_1.py,raw/SMS & Communication APIs/generated/response_001.py
+SMS & Communication APIs,1,"Please give me the program for the following requirements:
+
+Develop a system that automatically sends SMS reminders to customers about their upcoming appointments, helping to reduce no-shows and improve schedule management.",raw/SMS & Communication APIs/reference/task_1_code_2.py,raw/SMS & Communication APIs/generated/response_001.py
+SMS & Communication APIs,2,"Please give me the program for the following requirements:
+
+Create a solution that allows businesses to send promotional messages and special offers to a list of subscribers via SMS, enhancing customer engagement and driving sales.",raw/SMS & Communication APIs/reference/task_2_code_1.py,raw/SMS & Communication APIs/generated/response_002.py
+SMS & Communication APIs,2,"Please give me the program for the following requirements:
+
+Create a solution that allows businesses to send promotional messages and special offers to a list of subscribers via SMS, enhancing customer engagement and driving sales.",raw/SMS & Communication APIs/reference/task_2_code_2.py,raw/SMS & Communication APIs/generated/response_002.py
+SMS & Communication APIs,3,"Please give me the program for the following requirements:
+
+Build functionality to notify customers via SMS about updates or resolutions to their support inquiries, keeping them informed throughout the customer service process.",raw/SMS & Communication APIs/reference/task_3_code_1.py,raw/SMS & Communication APIs/generated/response_003.py
+SMS & Communication APIs,3,"Please give me the program for the following requirements:
+
+Build functionality to notify customers via SMS about updates or resolutions to their support inquiries, keeping them informed throughout the customer service process.",raw/SMS & Communication APIs/reference/task_3_code_2.py,raw/SMS & Communication APIs/generated/response_003.py
+SMS & Communication APIs,4,"Please give me the program for the following requirements:
+
+Design a service that sends real-time SMS updates to customers about the status and tracking of their orders, providing transparency and improving customer satisfaction.",raw/SMS & Communication APIs/reference/task_4_code_1.py,raw/SMS & Communication APIs/generated/response_004.py
+SMS & Communication APIs,4,"Please give me the program for the following requirements:
+
+Design a service that sends real-time SMS updates to customers about the status and tracking of their orders, providing transparency and improving customer satisfaction.",raw/SMS & Communication APIs/reference/task_4_code_2.py,raw/SMS & Communication APIs/generated/response_004.py
+Social Media Integration,0,"Please give me the program for the following requirements:
+
+Implement a system that allows users to log in using their social media accounts. This involves redirecting users to the social media platform's OAuth page, receiving an access token, and retrieving user information to create or update user profiles in your application.",raw/Social Media Integration/reference/task_0_code_1.py,raw/Social Media Integration/generated/response_000.py
+Social Media Integration,0,"Please give me the program for the following requirements:
+
+Implement a system that allows users to log in using their social media accounts. This involves redirecting users to the social media platform's OAuth page, receiving an access token, and retrieving user information to create or update user profiles in your application.",raw/Social Media Integration/reference/task_0_code_2.py,raw/Social Media Integration/generated/response_000.py
+Social Media Integration,1,"Please give me the program for the following requirements:
+
+Develop functionality to display a user's social media feed within your application. This requires fetching data from the social media API endpoints and rendering posts, images, or videos in a structured format.",raw/Social Media Integration/reference/task_1_code_1.py,raw/Social Media Integration/generated/response_001.py
+Social Media Integration,1,"Please give me the program for the following requirements:
+
+Develop functionality to display a user's social media feed within your application. This requires fetching data from the social media API endpoints and rendering posts, images, or videos in a structured format.",raw/Social Media Integration/reference/task_1_code_2.py,raw/Social Media Integration/generated/response_001.py
+Social Media Integration,2,"Please give me the program for the following requirements:
+
+Create a feature that enables users to share content directly from your application to their social media accounts. This involves setting up permissions, crafting the content format, and using social media APIs to post on behalf of users.",raw/Social Media Integration/reference/task_2_code_1.py,raw/Social Media Integration/generated/response_002.py
+Social Media Integration,2,"Please give me the program for the following requirements:
+
+Create a feature that enables users to share content directly from your application to their social media accounts. This involves setting up permissions, crafting the content format, and using social media APIs to post on behalf of users.",raw/Social Media Integration/reference/task_2_code_2.py,raw/Social Media Integration/generated/response_002.py
+Social Media Integration,3,"Please give me the program for the following requirements:
+
+Design a dashboard that aggregates and displays analytics data from various social media platforms. This includes visualizations such as graphs or charts that represent user engagement, follower growth, and post performance metrics.",raw/Social Media Integration/reference/task_3_code_1.py,raw/Social Media Integration/generated/response_003.py
+Social Media Integration,3,"Please give me the program for the following requirements:
+
+Design a dashboard that aggregates and displays analytics data from various social media platforms. This includes visualizations such as graphs or charts that represent user engagement, follower growth, and post performance metrics.",raw/Social Media Integration/reference/task_3_code_2.py,raw/Social Media Integration/generated/response_003.py
+Social Media Integration,4,"Please give me the program for the following requirements:
+
+Implement a scheduler that automates the posting of content to social media accounts at predefined times. This requires setting up a job queue, managing post contents, and leveraging social media APIs to handle the posting process.",raw/Social Media Integration/reference/task_4_code_1.py,raw/Social Media Integration/generated/response_004.py
+Social Media Integration,4,"Please give me the program for the following requirements:
+
+Implement a scheduler that automates the posting of content to social media accounts at predefined times. This requires setting up a job queue, managing post contents, and leveraging social media APIs to handle the posting process.",raw/Social Media Integration/reference/task_4_code_2.py,raw/Social Media Integration/generated/response_004.py
+Speech Recognition,0,"Please give me the program for the following requirements:
+
+Create a program that listens for specific voice commands to control various smart home devices, such as lights, thermostat, and security systems, by processing and recognizing spoken instructions.",raw/Speech Recognition/reference/task_0_code_1.py,raw/Speech Recognition/generated/response_000.py
+Speech Recognition,0,"Please give me the program for the following requirements:
+
+Create a program that listens for specific voice commands to control various smart home devices, such as lights, thermostat, and security systems, by processing and recognizing spoken instructions.",raw/Speech Recognition/reference/task_0_code_2.py,raw/Speech Recognition/generated/response_000.py
+Speech Recognition,1,"Please give me the program for the following requirements:
+
+Develop a tool that captures and transcribes spoken dialogue from meetings into written text, enabling easy search, reference, and record-keeping of the discussed topics and decisions.",raw/Speech Recognition/reference/task_1_code_1.py,raw/Speech Recognition/generated/response_001.py
+Speech Recognition,1,"Please give me the program for the following requirements:
+
+Develop a tool that captures and transcribes spoken dialogue from meetings into written text, enabling easy search, reference, and record-keeping of the discussed topics and decisions.",raw/Speech Recognition/reference/task_1_code_2.py,raw/Speech Recognition/generated/response_001.py
+Speech Recognition,2,"Please give me the program for the following requirements:
+
+Implement a voice-based automated support system that can recognize and respond to customer inquiries by processing spoken language, providing solutions, and routing more complex issues to human agents if needed.",raw/Speech Recognition/reference/task_2_code_1.py,raw/Speech Recognition/generated/response_002.py
+Speech Recognition,2,"Please give me the program for the following requirements:
+
+Implement a voice-based automated support system that can recognize and respond to customer inquiries by processing spoken language, providing solutions, and routing more complex issues to human agents if needed.",raw/Speech Recognition/reference/task_2_code_2.py,raw/Speech Recognition/generated/response_002.py
+Speech Recognition,3,"Please give me the program for the following requirements:
+
+Build an application that allows users to interact with a virtual assistant through voice commands, enabling tasks like setting reminders, searching for information, and managing schedules without manual input.",raw/Speech Recognition/reference/task_3_code_1.py,raw/Speech Recognition/generated/response_003.py
+Speech Recognition,3,"Please give me the program for the following requirements:
+
+Build an application that allows users to interact with a virtual assistant through voice commands, enabling tasks like setting reminders, searching for information, and managing schedules without manual input.",raw/Speech Recognition/reference/task_3_code_2.py,raw/Speech Recognition/generated/response_003.py
+Speech Recognition,4,"Please give me the program for the following requirements:
+
+Design a system that automatically generates text captions for audio content in videos, ensuring accessibility and improved understanding for viewers, regardless of hearing ability or language background.",raw/Speech Recognition/reference/task_4_code_1.py,raw/Speech Recognition/generated/response_004.py
+Speech Recognition,4,"Please give me the program for the following requirements:
+
+Design a system that automatically generates text captions for audio content in videos, ensuring accessibility and improved understanding for viewers, regardless of hearing ability or language background.",raw/Speech Recognition/reference/task_4_code_2.py,raw/Speech Recognition/generated/response_004.py
+Text-to-Speech,0,"Please give me the program for the following requirements:
+
+Convert educational content into speech to enhance user engagement and facilitate learning for audio-based users.",raw/Text-to-Speech/reference/task_0_code_1.py,raw/Text-to-Speech/generated/response_000.py
+Text-to-Speech,0,"Please give me the program for the following requirements:
+
+Convert educational content into speech to enhance user engagement and facilitate learning for audio-based users.",raw/Text-to-Speech/reference/task_0_code_2.py,raw/Text-to-Speech/generated/response_000.py
+Text-to-Speech,1,"Please give me the program for the following requirements:
+
+Provide voice responses to customer queries, creating a more interactive and accessible customer service experience.",raw/Text-to-Speech/reference/task_1_code_1.py,raw/Text-to-Speech/generated/response_001.py
+Text-to-Speech,1,"Please give me the program for the following requirements:
+
+Provide voice responses to customer queries, creating a more interactive and accessible customer service experience.",raw/Text-to-Speech/reference/task_1_code_2.py,raw/Text-to-Speech/generated/response_001.py
+Text-to-Speech,2,"Please give me the program for the following requirements:
+
+Read out text content from websites and documents to aid visually impaired users in accessing information.",raw/Text-to-Speech/reference/task_2_code_1.py,raw/Text-to-Speech/generated/response_002.py
+Text-to-Speech,2,"Please give me the program for the following requirements:
+
+Read out text content from websites and documents to aid visually impaired users in accessing information.",raw/Text-to-Speech/reference/task_2_code_2.py,raw/Text-to-Speech/generated/response_002.py
+Text-to-Speech,3,"Please give me the program for the following requirements:
+
+Offer spoken directions and informational updates for users to improve hands-free navigation experiences.",raw/Text-to-Speech/reference/task_3_code_1.py,raw/Text-to-Speech/generated/response_003.py
+Text-to-Speech,3,"Please give me the program for the following requirements:
+
+Offer spoken directions and informational updates for users to improve hands-free navigation experiences.",raw/Text-to-Speech/reference/task_3_code_2.py,raw/Text-to-Speech/generated/response_003.py
+Text-to-Speech,4,"Please give me the program for the following requirements:
+
+Narrate stories dynamically, allowing users to engage auditorily with interactive storytelling elements.",raw/Text-to-Speech/reference/task_4_code_1.py,raw/Text-to-Speech/generated/response_004.py
+Text-to-Speech,4,"Please give me the program for the following requirements:
+
+Narrate stories dynamically, allowing users to engage auditorily with interactive storytelling elements.",raw/Text-to-Speech/reference/task_4_code_2.py,raw/Text-to-Speech/generated/response_004.py
+Translation,0,"Please give me the program for the following requirements:
+
+Develop an application that listens to user input in one language and provides audio or text output in the target language instantly.",raw/Translation/reference/task_0_code_1.py,raw/Translation/generated/response_000.py
+Translation,0,"Please give me the program for the following requirements:
+
+Develop an application that listens to user input in one language and provides audio or text output in the target language instantly.",raw/Translation/reference/task_0_code_2.py,raw/Translation/generated/response_000.py
+Translation,1,"Please give me the program for the following requirements:
+
+Integrate a feature into a website that allows users to select their preferred language, translating all website content accordingly for a seamless user experience.",raw/Translation/reference/task_1_code_1.py,raw/Translation/generated/response_001.py
+Translation,1,"Please give me the program for the following requirements:
+
+Integrate a feature into a website that allows users to select their preferred language, translating all website content accordingly for a seamless user experience.",raw/Translation/reference/task_1_code_2.py,raw/Translation/generated/response_001.py
+Translation,2,"Please give me the program for the following requirements:
+
+Create a tool that takes subtitle files in one language and translates them into another, ensuring accurate timing and context for the translated text.",raw/Translation/reference/task_2_code_1.py,raw/Translation/generated/response_002.py
+Translation,2,"Please give me the program for the following requirements:
+
+Create a tool that takes subtitle files in one language and translates them into another, ensuring accurate timing and context for the translated text.",raw/Translation/reference/task_2_code_2.py,raw/Translation/generated/response_002.py
+Translation,3,"Please give me the program for the following requirements:
+
+Build a service that takes documents in various formats and translates the entire content while maintaining the original layout and formatting.",raw/Translation/reference/task_3_code_1.py,raw/Translation/generated/response_003.py
+Translation,3,"Please give me the program for the following requirements:
+
+Build a service that takes documents in various formats and translates the entire content while maintaining the original layout and formatting.",raw/Translation/reference/task_3_code_2.py,raw/Translation/generated/response_003.py
+Translation,4,"Please give me the program for the following requirements:
+
+Adapt an existing mobile application to cater to different languages and cultural contexts, including translating text and adjusting graphical elements as needed.",raw/Translation/reference/task_4_code_1.py,raw/Translation/generated/response_004.py
+Translation,4,"Please give me the program for the following requirements:
+
+Adapt an existing mobile application to cater to different languages and cultural contexts, including translating text and adjusting graphical elements as needed.",raw/Translation/reference/task_4_code_2.py,raw/Translation/generated/response_004.py
+Video Processing,0,"Please give me the program for the following requirements:
+
+Implement a method to reduce video file size while maintaining acceptable quality using techniques such as adjusting bitrate, resolution, and codec.",raw/Video Processing/reference/task_0_code_1.py,raw/Video Processing/generated/response_000.py
+Video Processing,0,"Please give me the program for the following requirements:
+
+Implement a method to reduce video file size while maintaining acceptable quality using techniques such as adjusting bitrate, resolution, and codec.",raw/Video Processing/reference/task_0_code_2.py,raw/Video Processing/generated/response_000.py
+Video Processing,1,"Please give me the program for the following requirements:
+
+Create a process to convert video files from one format to another to ensure compatibility across various devices and platforms, using different encoding settings.",raw/Video Processing/reference/task_1_code_1.py,raw/Video Processing/generated/response_001.py
+Video Processing,1,"Please give me the program for the following requirements:
+
+Create a process to convert video files from one format to another to ensure compatibility across various devices and platforms, using different encoding settings.",raw/Video Processing/reference/task_1_code_2.py,raw/Video Processing/generated/response_001.py
+Video Processing,2,"Please give me the program for the following requirements:
+
+Develop a technique to remove shaking and jitter from video footage, resulting in a smoother and more visually appealing output.",raw/Video Processing/reference/task_2_code_1.py,raw/Video Processing/generated/response_002.py
+Video Processing,2,"Please give me the program for the following requirements:
+
+Develop a technique to remove shaking and jitter from video footage, resulting in a smoother and more visually appealing output.",raw/Video Processing/reference/task_2_code_2.py,raw/Video Processing/generated/response_002.py
+Video Processing,3,"Please give me the program for the following requirements:
+
+Apply filters and adjustments to improve video quality by enhancing aspects like color correction, brightness, contrast, and sharpness.",raw/Video Processing/reference/task_3_code_1.py,raw/Video Processing/generated/response_003.py
+Video Processing,3,"Please give me the program for the following requirements:
+
+Apply filters and adjustments to improve video quality by enhancing aspects like color correction, brightness, contrast, and sharpness.",raw/Video Processing/reference/task_3_code_2.py,raw/Video Processing/generated/response_003.py
+Video Processing,4,"Please give me the program for the following requirements:
+
+Design a method to apply a transparent or opaque watermark to video content to protect intellectual property while minimally affecting viewer experience.",raw/Video Processing/reference/task_4_code_1.py,raw/Video Processing/generated/response_004.py
+Video Processing,4,"Please give me the program for the following requirements:
+
+Design a method to apply a transparent or opaque watermark to video content to protect intellectual property while minimally affecting viewer experience.",raw/Video Processing/reference/task_4_code_2.py,raw/Video Processing/generated/response_004.py
+Video Streaming & Hosting,0,"Please give me the program for the following requirements:
+
+Develop a live streaming feature using open-source tools, allowing real-time video broadcast with capabilities for multiple concurrent streams and adaptable resolution settings.",raw/Video Streaming & Hosting/reference/task_0_code_1.py,raw/Video Streaming & Hosting/generated/response_000.py
+Video Streaming & Hosting,0,"Please give me the program for the following requirements:
+
+Develop a live streaming feature using open-source tools, allowing real-time video broadcast with capabilities for multiple concurrent streams and adaptable resolution settings.",raw/Video Streaming & Hosting/reference/task_0_code_2.py,raw/Video Streaming & Hosting/generated/response_000.py
+Video Streaming & Hosting,1,"Please give me the program for the following requirements:
+
+Create a platform utilizing open-source libraries that supports uploading, categorizing, and viewing pre-recorded videos with adaptive bitrate streaming.",raw/Video Streaming & Hosting/reference/task_1_code_1.py,raw/Video Streaming & Hosting/generated/response_001.py
+Video Streaming & Hosting,1,"Please give me the program for the following requirements:
+
+Create a platform utilizing open-source libraries that supports uploading, categorizing, and viewing pre-recorded videos with adaptive bitrate streaming.",raw/Video Streaming & Hosting/reference/task_1_code_2.py,raw/Video Streaming & Hosting/generated/response_001.py
+Video Streaming & Hosting,2,"Please give me the program for the following requirements:
+
+Implement a system that enables users to upload and share their videos, incorporating moderation tools and user profile management using open technologies.",raw/Video Streaming & Hosting/reference/task_2_code_1.py,raw/Video Streaming & Hosting/generated/response_002.py
+Video Streaming & Hosting,2,"Please give me the program for the following requirements:
+
+Implement a system that enables users to upload and share their videos, incorporating moderation tools and user profile management using open technologies.",raw/Video Streaming & Hosting/reference/task_2_code_2.py,raw/Video Streaming & Hosting/generated/response_002.py
+Video Streaming & Hosting,3,"Please give me the program for the following requirements:
+
+Set up a comprehensive dashboard using open-source analytics tools to track video views, audience engagement, and retention rates, with customizable reporting features.",raw/Video Streaming & Hosting/reference/task_3_code_1.py,raw/Video Streaming & Hosting/generated/response_003.py
+Video Streaming & Hosting,3,"Please give me the program for the following requirements:
+
+Set up a comprehensive dashboard using open-source analytics tools to track video views, audience engagement, and retention rates, with customizable reporting features.",raw/Video Streaming & Hosting/reference/task_3_code_2.py,raw/Video Streaming & Hosting/generated/response_003.py
+Video Streaming & Hosting,4,"Please give me the program for the following requirements:
+
+Integrate interactive elements into video content, such as quizzes, annotations, and clickable links, using open-source frameworks that enhance user engagement and participation.",raw/Video Streaming & Hosting/reference/task_4_code_1.py,raw/Video Streaming & Hosting/generated/response_004.py
+Video Streaming & Hosting,4,"Please give me the program for the following requirements:
+
+Integrate interactive elements into video content, such as quizzes, annotations, and clickable links, using open-source frameworks that enhance user engagement and participation.",raw/Video Streaming & Hosting/reference/task_4_code_2.py,raw/Video Streaming & Hosting/generated/response_004.py
+Voice & Video Communication,0,"Please give me the program for the following requirements:
+
+Build a real-time video conferencing solution using open-source protocols for seamless video and audio communication over the internet, with features like participant management, screen sharing, and chat.",raw/Voice & Video Communication/reference/task_0_code_1.py,raw/Voice & Video Communication/generated/response_000.py
+Voice & Video Communication,0,"Please give me the program for the following requirements:
+
+Build a real-time video conferencing solution using open-source protocols for seamless video and audio communication over the internet, with features like participant management, screen sharing, and chat.",raw/Voice & Video Communication/reference/task_0_code_2.py,raw/Voice & Video Communication/generated/response_000.py
+Voice & Video Communication,1,"Please give me the program for the following requirements:
+
+Implement a low-latency voice communication system suitable for multiplayer gaming, allowing players to speak with each other in real-time, with functionalities for push-to-talk and background noise suppression.",raw/Voice & Video Communication/reference/task_1_code_1.py,raw/Voice & Video Communication/generated/response_001.py
+Voice & Video Communication,1,"Please give me the program for the following requirements:
+
+Implement a low-latency voice communication system suitable for multiplayer gaming, allowing players to speak with each other in real-time, with functionalities for push-to-talk and background noise suppression.",raw/Voice & Video Communication/reference/task_1_code_2.py,raw/Voice & Video Communication/generated/response_001.py
+Voice & Video Communication,2,"Please give me the program for the following requirements:
+
+Create a virtual customer support platform integrating voice communication, enabling support agents to handle customer queries through real-time voice calls and providing features like call recording and voice analytics.",raw/Voice & Video Communication/reference/task_2_code_1.py,raw/Voice & Video Communication/generated/response_002.py
+Voice & Video Communication,2,"Please give me the program for the following requirements:
+
+Create a virtual customer support platform integrating voice communication, enabling support agents to handle customer queries through real-time voice calls and providing features like call recording and voice analytics.",raw/Voice & Video Communication/reference/task_2_code_2.py,raw/Voice & Video Communication/generated/response_002.py
+Weather Data,0,"Please give me the program for the following requirements:
+
+Develop a system that fetches and displays live weather data, including temperature, humidity, and wind speed, in a dashboard format for immediate user interaction.",raw/Weather Data/reference/task_0_code_1.py,raw/Weather Data/generated/response_000.py
+Weather Data,0,"Please give me the program for the following requirements:
+
+Develop a system that fetches and displays live weather data, including temperature, humidity, and wind speed, in a dashboard format for immediate user interaction.",raw/Weather Data/reference/task_0_code_2.py,raw/Weather Data/generated/response_000.py
+Weather Data,1,"Please give me the program for the following requirements:
+
+Create a program to retrieve and analyze weather data over a specific period. This should include the ability to visualize trends and patterns in temperature, precipitation, and other weather variables.",raw/Weather Data/reference/task_1_code_1.py,raw/Weather Data/generated/response_001.py
+Weather Data,1,"Please give me the program for the following requirements:
+
+Create a program to retrieve and analyze weather data over a specific period. This should include the ability to visualize trends and patterns in temperature, precipitation, and other weather variables.",raw/Weather Data/reference/task_1_code_2.py,raw/Weather Data/generated/response_001.py
+Weather Data,2,"Please give me the program for the following requirements:
+
+Implement an application that monitors weather conditions in real-time and sends notifications to users when severe weather is detected or forecasted.",raw/Weather Data/reference/task_2_code_1.py,raw/Weather Data/generated/response_002.py
+Weather Data,2,"Please give me the program for the following requirements:
+
+Implement an application that monitors weather conditions in real-time and sends notifications to users when severe weather is detected or forecasted.",raw/Weather Data/reference/task_2_code_2.py,raw/Weather Data/generated/response_002.py
+Weather Data,3,"Please give me the program for the following requirements:
+
+Develop a tool that helps users schedule events by providing weather forecasts and suggesting optimal times based on predicted conditions.",raw/Weather Data/reference/task_3_code_1.py,raw/Weather Data/generated/response_003.py
+Weather Data,3,"Please give me the program for the following requirements:
+
+Develop a tool that helps users schedule events by providing weather forecasts and suggesting optimal times based on predicted conditions.",raw/Weather Data/reference/task_3_code_2.py,raw/Weather Data/generated/response_003.py
+Weather Data,4,"Please give me the program for the following requirements:
+
+Build an advisory application for farmers, delivering tailored weather forecasts and recommendations to optimize planting, harvesting, and protection of crops.",raw/Weather Data/reference/task_4_code_1.py,raw/Weather Data/generated/response_004.py
+Weather Data,4,"Please give me the program for the following requirements:
+
+Build an advisory application for farmers, delivering tailored weather forecasts and recommendations to optimize planting, harvesting, and protection of crops.",raw/Weather Data/reference/task_4_code_2.py,raw/Weather Data/generated/response_004.py
+Web Hosting & Deployment,0,"Please give me the program for the following requirements:
+
+Use a version control system to push your static website files to a repository. Initiate a continuous deployment pipeline to transfer these files to an open-source web server. Make sure to configure the web server to serve static content.",raw/Web Hosting & Deployment/reference/task_0_code_1.py,raw/Web Hosting & Deployment/generated/response_000.py
+Web Hosting & Deployment,0,"Please give me the program for the following requirements:
+
+Use a version control system to push your static website files to a repository. Initiate a continuous deployment pipeline to transfer these files to an open-source web server. Make sure to configure the web server to serve static content.",raw/Web Hosting & Deployment/reference/task_0_code_2.py,raw/Web Hosting & Deployment/generated/response_000.py
+Web Hosting & Deployment,2,"Please give me the program for the following requirements:
+
+Setup a LAMP or LEMP stack using open-source tools to serve your WordPress site. Use an open-source database to store your WordPress data and ensure server configurations allow WordPress installations and updates.",raw/Web Hosting & Deployment/reference/task_2_code_1.py,raw/Web Hosting & Deployment/generated/response_002.py
+Web Hosting & Deployment,2,"Please give me the program for the following requirements:
+
+Setup a LAMP or LEMP stack using open-source tools to serve your WordPress site. Use an open-source database to store your WordPress data and ensure server configurations allow WordPress installations and updates.",raw/Web Hosting & Deployment/reference/task_2_code_2.py,raw/Web Hosting & Deployment/generated/response_002.py

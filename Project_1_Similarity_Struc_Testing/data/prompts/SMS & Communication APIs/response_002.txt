@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a solution that allows businesses to send promotional messages and special offers to a list of subscribers via SMS, enhancing customer engagement and driving sales.

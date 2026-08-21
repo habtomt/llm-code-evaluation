@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Set up a function to process and analyze images upon receipt through an HTTP trigger, utilizing an open-source image handling library for tasks such as resizing and filtering.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement a solution that identifies specific objects within an image and categorizes them accordingly.

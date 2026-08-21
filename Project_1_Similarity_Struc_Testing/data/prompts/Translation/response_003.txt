@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Build a service that takes documents in various formats and translates the entire content while maintaining the original layout and formatting.

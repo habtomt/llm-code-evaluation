@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Write code to improve the quality and features of an image by adjusting its brightness, contrast, and sharpness.

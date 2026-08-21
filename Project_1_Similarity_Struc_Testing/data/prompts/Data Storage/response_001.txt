@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Set up and manage a relational or non-relational database on a local server, supporting CRUD operations and ensuring data is properly indexed and optimized for performance.

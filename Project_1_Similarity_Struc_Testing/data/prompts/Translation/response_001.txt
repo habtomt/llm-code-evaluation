@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Integrate a feature into a website that allows users to select their preferred language, translating all website content accordingly for a seamless user experience.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a scalable storage architecture to handle increasing data volumes and user demands. Focus on optimizing performance for file operations and maintaining low latency for both small and large-scale file transactions.

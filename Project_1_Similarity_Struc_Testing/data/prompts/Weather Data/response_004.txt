@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Build an advisory application for farmers, delivering tailored weather forecasts and recommendations to optimize planting, harvesting, and protection of crops.

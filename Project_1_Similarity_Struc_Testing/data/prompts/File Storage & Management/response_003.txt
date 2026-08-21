@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Introduce a method to encrypt files both in transit and at rest to protect sensitive data. The solution should support encryption standards and key management, ensuring data integrity and confidentiality.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a feature that enables users to share content directly from your application to their social media accounts. This involves setting up permissions, crafting the content format, and using social media APIs to post on behalf of users.

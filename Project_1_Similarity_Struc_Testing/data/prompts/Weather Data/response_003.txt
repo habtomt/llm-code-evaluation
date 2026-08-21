@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a tool that helps users schedule events by providing weather forecasts and suggesting optimal times based on predicted conditions.

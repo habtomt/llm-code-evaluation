@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a method to apply a transparent or opaque watermark to video content to protect intellectual property while minimally affecting viewer experience.

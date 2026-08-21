@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Detects and reads license plate numbers from vehicle images or videos, enabling applications such as automated toll collection, parking management, and security monitoring.

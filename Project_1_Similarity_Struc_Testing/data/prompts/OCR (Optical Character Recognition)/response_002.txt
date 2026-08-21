@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Interprets and converts handwritten text from images or digital input into machine-readable text, applicable in note-taking apps, postal mail sorting, and form digitization.

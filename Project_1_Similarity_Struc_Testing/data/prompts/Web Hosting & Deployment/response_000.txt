@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Use a version control system to push your static website files to a repository. Initiate a continuous deployment pipeline to transfer these files to an open-source web server. Make sure to configure the web server to serve static content.

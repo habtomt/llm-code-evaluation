@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Configure redundant and distributed container instances to ensure application uptime and handle failover automatically.

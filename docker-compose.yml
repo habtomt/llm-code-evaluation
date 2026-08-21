@@ -1,0 +1,28 @@
+services:
+  dashboard:
+    build:
+      context: ./Project_1_Similarity_Struc_Testing
+      dockerfile: Dockerfile.prod
+    image: structural-similarity-analysis-testing-dashboard:latest
+    container_name: analysis_app
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+
+  classifier_app:
+    build:
+      context: ./Project_2_LLM_Code_Quality_Classifier
+      dockerfile: Dockerfile
+    image: code-quality-classifier:latest
+    container_name: quality_classifier_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Project_2_LLM_Code_Quality_Classifier/data:/app/data
+      - ./Project_2_LLM_Code_Quality_Classifier/models:/app/models
+      - ./Project_2_LLM_Code_Quality_Classifier/results:/app/results
+    environment:
+      - MODELS_DIR=/app/models
+      - UI_DIR=/app/ui
+    command: uvicorn api:app --host 0.0.0.0 --port 8000 --workers 1
+    restart: unless-stopped

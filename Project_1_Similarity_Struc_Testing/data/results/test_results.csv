@@ -1,0 +1,115 @@
+scenario,task_id,variant,total_tests,passed,failed,errors,pass_rate,coverage_pct,exit_code
+Authentication & Identity Management,0,ref_1,2,2,0,0,1.0,0.0,0
+Authentication & Identity Management,0,ref_2,2,2,0,0,1.0,0.0,0
+Authentication & Identity Management,0,llm,2,0,0,2,0.0,0.0,1
+Authentication & Identity Management,1,ref_1,2,0,2,0,0.0,0.0,1
+Authentication & Identity Management,1,ref_2,2,0,2,0,0.0,0.0,1
+Authentication & Identity Management,1,llm,2,2,0,0,1.0,0.0,0
+Authentication & Identity Management,2,ref_1,2,0,2,0,0.0,0.0,1
+Authentication & Identity Management,2,ref_2,2,0,2,0,0.0,0.0,1
+Authentication & Identity Management,2,llm,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,0,ref_1,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,0,ref_2,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,0,llm,2,2,0,0,1.0,0.0,0
+Blockchain & Cryptocurrency,1,ref_1,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,1,ref_2,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,1,llm,2,2,0,0,1.0,0.0,0
+Blockchain & Cryptocurrency,2,ref_1,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,2,ref_2,2,0,2,0,0.0,0.0,1
+Blockchain & Cryptocurrency,2,llm,2,2,0,0,1.0,0.0,0
+Cloud Database Services,0,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Database Services,0,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Database Services,0,llm,2,2,0,0,1.0,0.0,0
+Cloud Database Services,1,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Database Services,1,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Database Services,1,llm,2,2,0,0,1.0,0.0,0
+Cloud Database Services,2,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Database Services,2,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Database Services,2,llm,2,2,0,0,1.0,0.0,0
+Cloud Hosting,0,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Hosting,0,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Hosting,0,llm,2,2,0,0,1.0,0.0,0
+Cloud Hosting,1,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Hosting,1,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Hosting,1,llm,2,2,0,0,1.0,0.0,0
+Cloud Hosting,2,ref_1,2,0,2,0,0.0,0.0,1
+Cloud Hosting,2,ref_2,2,0,2,0,0.0,0.0,1
+Cloud Hosting,2,llm,2,2,0,0,1.0,0.0,0
+Container Orchestration,0,ref_1,2,0,2,0,0.0,0.0,1
+Container Orchestration,0,ref_2,2,0,2,0,0.0,0.0,1
+Container Orchestration,0,llm,2,2,0,0,1.0,0.0,0
+Container Orchestration,1,ref_1,2,0,2,0,0.0,0.0,1
+Container Orchestration,1,ref_2,2,0,2,0,0.0,0.0,1
+Container Orchestration,1,llm,2,2,0,0,1.0,0.0,0
+Container Orchestration,2,ref_1,2,1,1,0,0.5,0.0,1
+Container Orchestration,2,ref_2,2,1,1,0,0.5,0.0,1
+Container Orchestration,2,llm,2,2,0,0,1.0,0.0,0
+Content Moderation & Filtering,0,ref_1,2,0,2,0,0.0,0.0,1
+Content Moderation & Filtering,0,ref_2,2,0,2,0,0.0,0.0,1
+Content Moderation & Filtering,0,llm,2,2,0,0,1.0,0.0,0
+Content Moderation & Filtering,1,ref_1,2,0,2,0,0.0,0.0,1
+Content Moderation & Filtering,1,ref_2,2,0,2,0,0.0,0.0,1
+Content Moderation & Filtering,1,llm,2,2,0,0,1.0,0.0,0
+Data Analysis,0,ref_1,2,0,2,0,0.0,0.0,1
+Data Analysis,0,ref_2,2,0,2,0,0.0,0.0,1
+Data Analysis,0,llm,2,2,0,0,1.0,0.0,0
+Data Analysis,1,ref_1,2,0,2,0,0.0,0.0,1
+Data Analysis,1,ref_2,2,0,2,0,0.0,0.0,1
+Data Analysis,1,llm,2,1,1,0,0.5,0.0,1
+Data Visualization,2,ref_1,2,0,2,0,0.0,0.0,1
+Data Visualization,2,ref_2,2,0,2,0,0.0,0.0,1
+Data Visualization,2,llm,2,2,0,0,1.0,0.0,0
+E-commerce,0,ref_1,2,1,1,0,0.5,0.0,1
+E-commerce,0,ref_2,2,1,1,0,0.5,0.0,1
+E-commerce,0,llm,2,2,0,0,1.0,0.0,0
+File Storage & Management,0,ref_1,2,0,2,0,0.0,0.0,1
+File Storage & Management,0,ref_2,2,0,2,0,0.0,0.0,1
+File Storage & Management,0,llm,2,1,1,0,0.5,0.0,1
+Geolocation & Mapping,0,ref_1,2,0,2,0,0.0,0.0,1
+Geolocation & Mapping,0,ref_2,2,0,2,0,0.0,0.0,1
+Geolocation & Mapping,0,llm,2,2,0,0,1.0,0.0,0
+Image Processing,0,ref_1,1,1,0,0,1.0,0.0,0
+Image Processing,0,ref_2,1,1,0,0,1.0,0.0,0
+Image Processing,0,llm,1,1,0,0,1.0,0.0,0
+Machine Learning - AI Model Deployment,1,ref_1,2,0,2,0,0.0,0.0,1
+Machine Learning - AI Model Deployment,1,ref_2,2,0,2,0,0.0,0.0,1
+Machine Learning - AI Model Deployment,1,llm,2,2,0,0,1.0,0.0,0
+Natural Language Processing,0,ref_1,1,1,0,0,1.0,0.0,0
+Natural Language Processing,0,ref_2,1,1,0,0,1.0,0.0,0
+Natural Language Processing,0,llm,1,1,0,0,1.0,0.0,0
+OCR (Optical Character Recognition),0,ref_1,2,2,0,0,1.0,0.0,0
+OCR (Optical Character Recognition),0,ref_2,2,2,0,0,1.0,0.0,0
+OCR (Optical Character Recognition),0,llm,2,2,0,0,1.0,0.0,0
+Payment Processing,0,ref_1,2,1,1,0,0.5,0.0,1
+Payment Processing,0,ref_2,2,1,1,0,0.5,0.0,1
+Payment Processing,0,llm,2,2,0,0,1.0,0.0,0
+Serverless Deployment,0,ref_1,2,1,1,0,0.5,0.0,1
+Serverless Deployment,0,ref_2,2,1,1,0,0.5,0.0,1
+Serverless Deployment,0,llm,2,2,0,0,1.0,0.0,0
+SMS & Communication APIs,0,ref_1,2,2,0,0,1.0,0.0,0
+SMS & Communication APIs,0,ref_2,2,2,0,0,1.0,0.0,0
+SMS & Communication APIs,0,llm,2,2,0,0,1.0,0.0,0
+Social Media Integration,0,ref_1,2,2,0,0,1.0,0.0,0
+Social Media Integration,0,ref_2,2,2,0,0,1.0,0.0,0
+Social Media Integration,0,llm,2,2,0,0,1.0,0.0,0
+Speech Recognition,0,ref_1,2,1,1,0,0.5,0.0,1
+Speech Recognition,0,ref_2,2,1,1,0,0.5,0.0,1
+Speech Recognition,0,llm,2,2,0,0,1.0,0.0,0
+Text-to-Speech,0,ref_1,2,2,0,0,1.0,0.0,0
+Text-to-Speech,0,ref_2,2,2,0,0,1.0,0.0,0
+Text-to-Speech,0,llm,2,2,0,0,1.0,0.0,0
+Translation,0,ref_1,2,2,0,0,1.0,0.0,0
+Translation,0,ref_2,2,2,0,0,1.0,0.0,0
+Translation,0,llm,2,2,0,0,1.0,0.0,0
+Video Processing,0,ref_1,2,2,0,0,1.0,0.0,0
+Video Processing,0,ref_2,2,2,0,0,1.0,0.0,0
+Video Processing,0,llm,2,2,0,0,1.0,0.0,0
+Video Streaming & Hosting,0,ref_1,2,2,0,0,1.0,0.0,0
+Video Streaming & Hosting,0,ref_2,2,2,0,0,1.0,0.0,0
+Video Streaming & Hosting,0,llm,2,1,1,0,0.5,0.0,1
+Voice & Video Communication,0,ref_1,2,2,0,0,1.0,0.0,0
+Voice & Video Communication,0,ref_2,2,2,0,0,1.0,0.0,0
+Voice & Video Communication,0,llm,2,2,0,0,1.0,0.0,0
+Weather Data,0,ref_1,2,1,1,0,0.5,0.0,1
+Weather Data,0,ref_2,2,1,1,0,0.5,0.0,1
+Weather Data,0,llm,2,2,0,0,1.0,0.0,0

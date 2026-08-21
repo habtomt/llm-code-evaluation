@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a program that listens for specific voice commands to control various smart home devices, such as lights, thermostat, and security systems, by processing and recognizing spoken instructions.

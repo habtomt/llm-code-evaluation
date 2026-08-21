@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement a real-time event-driven function that processes data feeds as they arrive, using an open-source platform for handling data streams and applying transformations.

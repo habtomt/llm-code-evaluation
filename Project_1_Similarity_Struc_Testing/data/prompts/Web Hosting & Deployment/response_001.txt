@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Prepare your Django application for deployment by creating a 'settings' configuration suitable for production. Use a containerization tool to build your application container. Deploy this container behind a web server to handle requests and serve your application.

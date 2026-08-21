@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a solution that systematically processes and stores infrequently accessed data, ensuring data is retained over long periods with minimal cost and retrieval complexity.

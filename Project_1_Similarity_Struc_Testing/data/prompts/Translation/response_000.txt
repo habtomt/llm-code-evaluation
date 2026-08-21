@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop an application that listens to user input in one language and provides audio or text output in the target language instantly.

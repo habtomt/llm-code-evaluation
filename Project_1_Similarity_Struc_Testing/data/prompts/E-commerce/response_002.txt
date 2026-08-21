@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a multi-step checkout process with clear progress indicators. Use server-side validation for data accuracy and implement secure payment processing. Enhance user experience by allowing guest checkouts.

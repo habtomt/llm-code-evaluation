@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Write code to automatically send promotional emails to a list of subscribers, ensuring that emails are personalized based on customer data and time zone.

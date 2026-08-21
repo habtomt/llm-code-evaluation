@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Extracts and digitizes text from scanned or photographed invoices, capturing details such as item descriptions, prices, invoice numbers, dates, and vendor information for easy data management and integration.

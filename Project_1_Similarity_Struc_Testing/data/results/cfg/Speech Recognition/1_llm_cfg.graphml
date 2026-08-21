@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="0">
+  <data key="d0">B0: Import(names=[alias(name='pyaudio')]); Import(names=[alias(name='wave')])</data>
+</node>
+<node id="1">
+  <data key="d0">B1: (empty)</data>
+</node>
+<node id="2">
+  <data key="d0">B2: Expr(value=Call(func=Name(id='record_aud; Assign(targets=[Name(id='text', ctx=Stor</data>
+</node>
+<node id="3">
+  <data key="d0">B3: (empty)</data>
+</node>
+<node id="4">
+  <data key="d0">B4: Expr(value=Call(func=Attribute(value=Nam; Expr(value=Call(func=Name(id='print', ct</data>
+</node>
+<node id="5">
+  <data key="d0">B5: Expr(value=Call(func=Name(id='save_trans; Assign(targets=[Name(id='query', ctx=Sto</data>
+</node>
+<node id="6">
+  <data key="d0">B6: (empty)</data>
+</node>
+<node id="7">
+  <data key="d0">B7: (empty)</data>
+</node>
+<node id="8">
+  <data key="d0">B8: (empty)</data>
+</node>
+<node id="9">
+  <data key="d0">B9: Expr(value=Call(func=Name(id='print', ct</data>
+</node>
+<node id="10">
+  <data key="d0">B10: (empty)</data>
+</node>
+<edge source="0" target="2">
+  <data key="d1">true</data>
+</edge>
+<edge source="0" target="3">
+  <data key="d1">false</data>
+</edge>
+<edge source="2" target="5">
+  <data key="d1">true</data>
+</edge>
+<edge source="2" target="6">
+  <data key="d1">false</data>
+</edge>
+<edge source="3" target="4">
+  <data key="d1">merge</data>
+</edge>
+<edge source="4" target="1">
+  <data key="d1">fall</data>
+</edge>
+<edge source="5" target="8">
+  <data key="d1">enter_loop</data>
+</edge>
+<edge source="6" target="7">
+  <data key="d1">merge</data>
+</edge>
+<edge source="7" target="4">
+  <data key="d1">merge</data>
+</edge>
+<edge source="8" target="9">
+  <data key="d1">loop_true</data>
+</edge>
+<edge source="8" target="10">
+  <data key="d1">loop_false</data>
+</edge>
+<edge source="9" target="8">
+  <data key="d1">back_edge</data>
+</edge>
+<edge source="10" target="7">
+  <data key="d1">merge</data>
+</edge>
+</graph></graphml>

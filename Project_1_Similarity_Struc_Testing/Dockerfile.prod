@@ -1,0 +1,38 @@
+# Build:   docker build -f Dockerfile.prod -t structural-similarity-analysis-testing-dashboard:latest .
+# Run  :   docker run -d -p 8501:8501 structural-similarity-analysis-testing-dashboard:latest
+
+FROM python:3.11-slim
+
+#  System dependencies 
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    gcc \
+    g++ \
+    python3-dev \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+#  Set the working directory inside the container 
+WORKDIR /app
+
+#  1. Copy ONLY the requirements first (Crucial for Docker Cache) 
+COPY requirements.txt .
+
+#  2. Install dependencies (This layer will now stay cached!) 
+RUN pip install --no-cache-dir --upgrade pip \
+    && pip install --no-cache-dir -r requirements.txt
+
+#  3. Copy the actual application files AFTER dependencies are installed 
+COPY . .
+
+#  Force Python output to log directly to the terminal 
+ENV PYTHONUNBUFFERED=1
+
+#  Re-run the data pipeline to generate the results 
+#RUN python run_pipeline.py
+
+#  Expose Streamlit's default network port 
+EXPOSE 8501
+
+#  Run the main Streamlit application 
+ENTRYPOINT ["python", "-m", "streamlit", "run", "simple_dashboard.py", "--server.port=8501", "--server.address=0.0.0.0"]

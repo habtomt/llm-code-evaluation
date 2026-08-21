@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Extracts personal information from identity cards by recognizing and digitizing text such as names, birthdates, addresses, and identification numbers for verification and authentication purposes.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Trigger a notification when a new message is received in the app, displaying the sender and a snippet of the message.

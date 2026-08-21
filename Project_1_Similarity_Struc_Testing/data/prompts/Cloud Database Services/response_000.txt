@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a script to migrate an existing on-premise database to a cloud-based, open-source database solution. The script should handle schema transfer, data upload, and integrity checks, ensuring minimal downtime and data consistency.

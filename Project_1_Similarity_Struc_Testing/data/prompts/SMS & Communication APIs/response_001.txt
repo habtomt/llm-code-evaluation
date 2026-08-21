@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a system that automatically sends SMS reminders to customers about their upcoming appointments, helping to reduce no-shows and improve schedule management.

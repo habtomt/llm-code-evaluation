@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Deploy a database system on a virtual machine. Configure automated scaling and integrate monitoring to track performance metrics and handle alerts for optimal database management.

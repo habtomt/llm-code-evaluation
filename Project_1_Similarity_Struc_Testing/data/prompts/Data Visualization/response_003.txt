@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Analyze social media posts and comments to determine public sentiment about a brand or product. Use natural language processing to identify positive, negative, or neutral sentiments and visualize sentiment trends over time.

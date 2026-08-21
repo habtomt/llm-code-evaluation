@@ -1,0 +1,35 @@
+# Python Build Artifacts & Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.eggy/
+.eggs/
+*.egg-info/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+#Secrets & Local Configuration
+.env
+*.local
+
+# Git Version Control
+.git/
+.gitignore
+
+# Discarded/Generated Outputs
+reports/
+#results/
+instance/

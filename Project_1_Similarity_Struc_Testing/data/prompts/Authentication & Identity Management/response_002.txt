@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Allow users to register and log in using their existing social media accounts. Implement OAuth 2.0 or a similar protocol to handle authentication with social platforms, retrieving and storing only necessary profile information.

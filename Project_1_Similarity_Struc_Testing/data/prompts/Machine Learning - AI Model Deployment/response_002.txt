@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Optimize the machine learning model for resource-constrained environments. Develop a lightweight application that loads and runs the model inference on edge hardware like GPUs. Ensure minimal latency and offline functionality.

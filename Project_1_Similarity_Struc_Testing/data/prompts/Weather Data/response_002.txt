@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement an application that monitors weather conditions in real-time and sends notifications to users when severe weather is detected or forecasted.

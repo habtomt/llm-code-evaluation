@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a live streaming feature using open-source tools, allowing real-time video broadcast with capabilities for multiple concurrent streams and adaptable resolution settings.

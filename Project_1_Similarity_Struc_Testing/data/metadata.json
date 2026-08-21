@@ -1,0 +1,1990 @@
+[
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a signup system where users can create an account with their email and a secure password. Use a database to store user information securely. Include email verification to confirm the user's email address.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a signup system where users can create an account with their email and a secure password. Use a database to store user information securely. Include email verification to confirm the user's email address.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nAdd an extra layer of security by implementing MFA. After entering a password, require users to verify their identity with a second factor, such as a code sent to their mobile device or an authentication app.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nAdd an extra layer of security by implementing MFA. After entering a password, require users to verify their identity with a second factor, such as a code sent to their mobile device or an authentication app.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nAllow users to register and log in using their existing social media accounts. Implement OAuth 2.0 or a similar protocol to handle authentication with social platforms, retrieving and storing only necessary profile information.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nAllow users to register and log in using their existing social media accounts. Implement OAuth 2.0 or a similar protocol to handle authentication with social platforms, retrieving and storing only necessary profile information.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a system for users to securely reset their passwords. Upon requesting a reset, send a link to their registered email. Ensure the link is time-sensitive and capable of validating the user's identity before allowing a password change.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a system for users to securely reset their passwords. Upon requesting a reset, send a link to their registered email. Ensure the link is time-sensitive and capable of validating the user's identity before allowing a password change.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement authorization by assigning different roles to users. Restrict or grant access to certain parts of the application based on the user's role. Ensure permissions are checked at critical points during application function.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Authentication & Identity Management",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement authorization by assigning different roles to users. Restrict or grant access to certain parts of the application based on the user's role. Ensure permissions are checked at critical points during application function.",
+    "reference_file":"raw\/Authentication & Identity Management\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Authentication & Identity Management\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system to handle transactions using various cryptocurrencies. This involves creating digital wallets, processing payments, and ensuring secure cryptographic transfers over the blockchain network.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system to handle transactions using various cryptocurrencies. This involves creating digital wallets, processing payments, and ensuring secure cryptographic transfers over the blockchain network.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement smart contracts to automate and secure transactions across a supply chain. This includes tracking products, verifying authenticity, and streamlining processes through predetermined conditions coded within the contracts.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement smart contracts to automate and secure transactions across a supply chain. This includes tracking products, verifying authenticity, and streamlining processes through predetermined conditions coded within the contracts.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a decentralized platform allowing users to access financial services such as lending, borrowing, and trading without intermediaries. The platform should utilize blockchain to offer transparency and security.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a decentralized platform allowing users to access financial services such as lending, borrowing, and trading without intermediaries. The platform should utilize blockchain to offer transparency and security.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a marketplace where users can mint, buy, sell, and trade non-fungible tokens. This requires blockchain integration for asset verification, ownership transfer, and secure transactions.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a marketplace where users can mint, buy, sell, and trade non-fungible tokens. This requires blockchain integration for asset verification, ownership transfer, and secure transactions.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nConstruct a system for digital identity verification using blockchain technology to provide secure and immutable records. This aims to enhance privacy and streamline processes for verifying identities online.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Blockchain & Cryptocurrency",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nConstruct a system for digital identity verification using blockchain technology to provide secure and immutable records. This aims to enhance privacy and streamline processes for verifying identities online.",
+    "reference_file":"raw\/Blockchain & Cryptocurrency\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Blockchain & Cryptocurrency\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a script to migrate an existing on-premise database to a cloud-based, open-source database solution. The script should handle schema transfer, data upload, and integrity checks, ensuring minimal downtime and data consistency.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a script to migrate an existing on-premise database to a cloud-based, open-source database solution. The script should handle schema transfer, data upload, and integrity checks, ensuring minimal downtime and data consistency.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a code block that automatically adjusts the resources of a cloud database based on the current load. This includes adding or removing instances and optimizing resource allocation to handle varying workloads efficiently.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a code block that automatically adjusts the resources of a cloud database based on the current load. This includes adding or removing instances and optimizing resource allocation to handle varying workloads efficiently.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a configuration script that enforces security best practices for a cloud database. This includes setting up authentication, encryption for data in transit and at rest, role-based access controls, and audit logging.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a configuration script that enforces security best practices for a cloud database. This includes setting up authentication, encryption for data in transit and at rest, role-based access controls, and audit logging.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite a program that automates the backup process of a cloud database. The program should support scheduling, versioning of backups, and storage in a distributed and secure manner for easy restoration.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite a program that automates the backup process of a cloud database. The program should support scheduling, versioning of backups, and storage in a distributed and secure manner for easy restoration.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a monitoring solution using open-source tools to track metrics like CPU usage, memory, query performance, and storage of a cloud database. The solution should include alerts for anomalies and suggestions for optimization.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Cloud Database Services",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a monitoring solution using open-source tools to track metrics like CPU usage, memory, query performance, and storage of a cloud database. The solution should include alerts for anomalies and suggestions for optimization.",
+    "reference_file":"raw\/Cloud Database Services\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Cloud Database Services\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nUse containerization to package the web application. Utilize an orchestration tool to manage the deployment, scaling, and running of the containers across the cloud infrastructure.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nUse containerization to package the web application. Utilize an orchestration tool to manage the deployment, scaling, and running of the containers across the cloud infrastructure.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a scheduled task that uses an open-source tool to create regular backups of your data and store them in a cloud storage bucket. Implement a monitoring script to ensure the backup tasks complete successfully.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a scheduled task that uses an open-source tool to create regular backups of your data and store them in a cloud storage bucket. Implement a monitoring script to ensure the backup tasks complete successfully.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nDeploy a database system on a virtual machine. Configure automated scaling and integrate monitoring to track performance metrics and handle alerts for optimal database management.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nDeploy a database system on a virtual machine. Configure automated scaling and integrate monitoring to track performance metrics and handle alerts for optimal database management.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nInstall a caching layer in front of your static assets to distribute across multiple geographic locations, ensuring fast load times by serving the content from nodes closer to users.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nInstall a caching layer in front of your static assets to distribute across multiple geographic locations, ensuring fast load times by serving the content from nodes closer to users.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a continuous integration server and configure jobs that automatically build and test your code changes. Implement continuous deployment to push verified code to staging and production environments.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Cloud Hosting",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a continuous integration server and configure jobs that automatically build and test your code changes. Implement continuous deployment to push verified code to staging and production environments.",
+    "reference_file":"raw\/Cloud Hosting\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Cloud Hosting\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDeploy containerized applications across multiple cloud environments using a management platform that abstracts cloud-specific configurations.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDeploy containerized applications across multiple cloud environments using a management platform that abstracts cloud-specific configurations.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nConfigure redundant and distributed container instances to ensure application uptime and handle failover automatically.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nConfigure redundant and distributed container instances to ensure application uptime and handle failover automatically.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nAllocate and manage container resources dynamically based on real-time application demand to enhance performance and efficiency.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nAllocate and manage container resources dynamically based on real-time application demand to enhance performance and efficiency.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement automated deployment pipelines that update containerized applications across environments without downtime.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement automated deployment pipelines that update containerized applications across environments without downtime.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nEnforce stringent security policies for containers, including network policies, access controls, and vulnerability scanning.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Container Orchestration",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nEnforce stringent security policies for containers, including network policies, access controls, and vulnerability scanning.",
+    "reference_file":"raw\/Container Orchestration\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Container Orchestration\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement automated methods to detect and remove inappropriate posts or comments in an online forum setting. This involves using natural language processing to scan for offensive language, spam, or other violations of community guidelines.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement automated methods to detect and remove inappropriate posts or comments in an online forum setting. This involves using natural language processing to scan for offensive language, spam, or other violations of community guidelines.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system to filter and flag harmful content, including hate speech, harassment, or misinformation, using machine learning algorithms. This also includes prioritizing content for review based on severity and user reports.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system to filter and flag harmful content, including hate speech, harassment, or misinformation, using machine learning algorithms. This also includes prioritizing content for review based on severity and user reports.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution to identify and moderate fake or deceptive product reviews on an e-commerce platform by analyzing patterns in text data and user behavior to maintain the credibility of genuine customer feedback.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution to identify and moderate fake or deceptive product reviews on an e-commerce platform by analyzing patterns in text data and user behavior to maintain the credibility of genuine customer feedback.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a content moderation system to automatically detect and manage inappropriate video content, including explicit or violent material, through computer vision techniques and audio analysis.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a content moderation system to automatically detect and manage inappropriate video content, including explicit or violent material, through computer vision techniques and audio analysis.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a filtering mechanism for reader comments on a news website to identify and manage inflammatory or abusive language, ensuring a respectful and constructive discussion environment.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Content Moderation & Filtering",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a filtering mechanism for reader comments on a news website to identify and manage inflammatory or abusive language, ensuring a respectful and constructive discussion environment.",
+    "reference_file":"raw\/Content Moderation & Filtering\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Content Moderation & Filtering\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze historical sales data to identify trends, seasonal patterns, and factors affecting sales using statistical techniques and visualization tools.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze historical sales data to identify trends, seasonal patterns, and factors affecting sales using statistical techniques and visualization tools.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nUse clustering algorithms to group customers based on purchasing behavior, demographics, and other relevant metrics to tailor marketing strategies.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nUse clustering algorithms to group customers based on purchasing behavior, demographics, and other relevant metrics to tailor marketing strategies.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nEvaluate marketing campaign data to measure effectiveness using key performance indicators (KPIs) such as conversion rate, ROI, and customer engagement.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nEvaluate marketing campaign data to measure effectiveness using key performance indicators (KPIs) such as conversion rate, ROI, and customer engagement.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nApply predictive modeling to assess the impact of price changes on demand and revenue, enabling dynamic pricing strategies for maximum profitability.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nApply predictive modeling to assess the impact of price changes on demand and revenue, enabling dynamic pricing strategies for maximum profitability.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze operational data to identify bottlenecks and inefficiencies, suggesting process improvements to reduce costs and enhance productivity.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Analysis",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze operational data to identify bottlenecks and inefficiencies, suggesting process improvements to reduce costs and enhance productivity.",
+    "reference_file":"raw\/Data Analysis\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Data Analysis\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement functionality to regularly store data backups in a secure, remote storage site accessible over the internet, ensuring data integrity and availability.",
+    "reference_file":"raw\/Data Storage\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement functionality to regularly store data backups in a secure, remote storage site accessible over the internet, ensuring data integrity and availability.",
+    "reference_file":"raw\/Data Storage\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up and manage a relational or non-relational database on a local server, supporting CRUD operations and ensuring data is properly indexed and optimized for performance.",
+    "reference_file":"raw\/Data Storage\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up and manage a relational or non-relational database on a local server, supporting CRUD operations and ensuring data is properly indexed and optimized for performance.",
+    "reference_file":"raw\/Data Storage\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nEstablish a file system that manages data across multiple locations and ensures that files are redundantly stored and accessible, optimizing for fault tolerance and speed.",
+    "reference_file":"raw\/Data Storage\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nEstablish a file system that manages data across multiple locations and ensures that files are redundantly stored and accessible, optimizing for fault tolerance and speed.",
+    "reference_file":"raw\/Data Storage\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution that systematically processes and stores infrequently accessed data, ensuring data is retained over long periods with minimal cost and retrieval complexity.",
+    "reference_file":"raw\/Data Storage\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution that systematically processes and stores infrequently accessed data, ensuring data is retained over long periods with minimal cost and retrieval complexity.",
+    "reference_file":"raw\/Data Storage\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system to collect, process, and store streaming data from IoT devices, ensuring timely and reliable data capture for analysis and monitoring.",
+    "reference_file":"raw\/Data Storage\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Storage",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system to collect, process, and store streaming data from IoT devices, ensuring timely and reliable data capture for analysis and monitoring.",
+    "reference_file":"raw\/Data Storage\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Data Storage\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze customer data to group individuals with similar characteristics for targeted marketing strategies. Use clustering algorithms to find key segments and visualize these segments to gain insights into customer behaviors.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze customer data to group individuals with similar characteristics for targeted marketing strategies. Use clustering algorithms to find key segments and visualize these segments to gain insights into customer behaviors.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop models to predict future sales trends based on historical sales data. Implement time series analysis to identify patterns and visualize the sales trajectory for informed decision-making.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop models to predict future sales trends based on historical sales data. Implement time series analysis to identify patterns and visualize the sales trajectory for informed decision-making.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nExamine website traffic data to understand visitor behavior. Use statistical techniques to identify peak traffic times, user demographics, and engagement metrics. Create visualizations to present these insights clearly.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nExamine website traffic data to understand visitor behavior. Use statistical techniques to identify peak traffic times, user demographics, and engagement metrics. Create visualizations to present these insights clearly.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze social media posts and comments to determine public sentiment about a brand or product. Use natural language processing to identify positive, negative, or neutral sentiments and visualize sentiment trends over time.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze social media posts and comments to determine public sentiment about a brand or product. Use natural language processing to identify positive, negative, or neutral sentiments and visualize sentiment trends over time.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a system to suggest products to customers based on their past behavior and preferences. Use collaborative filtering and other recommendation algorithms to analyze user data and generate personalized product recommendations.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Data Visualization",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a system to suggest products to customers based on their past behavior and preferences. Use collaborative filtering and other recommendation algorithms to analyze user data and generate personalized product recommendations.",
+    "reference_file":"raw\/Data Visualization\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Data Visualization\/generated\/response_004.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImprove the user interface and user experience by adding dynamic content loading, real-time price updates, and rich product descriptions. Implement AJAX calls to fetch additional product details without reloading the page.",
+    "reference_file":"raw\/E-commerce\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_000.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImprove the user interface and user experience by adding dynamic content loading, real-time price updates, and rich product descriptions. Implement AJAX calls to fetch additional product details without reloading the page.",
+    "reference_file":"raw\/E-commerce\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_000.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement client-side caching to preserve the cart state, minimize server requests, and reduce page load times. Ensure seamless updates using AJAX for adding or removing items, and calculate totals dynamically.",
+    "reference_file":"raw\/E-commerce\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_001.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement client-side caching to preserve the cart state, minimize server requests, and reduce page load times. Ensure seamless updates using AJAX for adding or removing items, and calculate totals dynamically.",
+    "reference_file":"raw\/E-commerce\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_001.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a multi-step checkout process with clear progress indicators. Use server-side validation for data accuracy and implement secure payment processing. Enhance user experience by allowing guest checkouts.",
+    "reference_file":"raw\/E-commerce\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_002.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a multi-step checkout process with clear progress indicators. Use server-side validation for data accuracy and implement secure payment processing. Enhance user experience by allowing guest checkouts.",
+    "reference_file":"raw\/E-commerce\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_002.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality for user registration, login, and profile management. Implement server-side authentication and authorization, and manage user session states securely.",
+    "reference_file":"raw\/E-commerce\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_003.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality for user registration, login, and profile management. Implement server-side authentication and authorization, and manage user session states securely.",
+    "reference_file":"raw\/E-commerce\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_003.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a system that analyzes user behavior and preferences to suggest products. Use collaborative filtering and machine learning techniques to generate personalized recommendations for users on the platform.",
+    "reference_file":"raw\/E-commerce\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_004.py"
+  },
+  {
+    "scenario":"E-commerce",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a system that analyzes user behavior and preferences to suggest products. Use collaborative filtering and machine learning techniques to generate personalized recommendations for users on the platform.",
+    "reference_file":"raw\/E-commerce\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/E-commerce\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite code to automatically send promotional emails to a list of subscribers, ensuring that emails are personalized based on customer data and time zone.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite code to automatically send promotional emails to a list of subscribers, ensuring that emails are personalized based on customer data and time zone.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an automated sequence of emails for new subscribers to guide them through your products or services and engage them with valuable content over time.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an automated sequence of emails for new subscribers to guide them through your products or services and engage them with valuable content over time.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system to detect when users abandon their shopping carts and trigger follow-up emails to encourage them to complete their purchases, including personalized product recommendations.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system to detect when users abandon their shopping carts and trigger follow-up emails to encourage them to complete their purchases, including personalized product recommendations.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a feature to handle new newsletter subscriptions and send a confirmation email to subscribers, along with an option to manage their email preferences.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a feature to handle new newsletter subscriptions and send a confirmation email to subscribers, along with an option to manage their email preferences.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up an event invitation email system that sends invites to a list of attendees, with the capability to track RSVPs and send reminders close to the event date.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Email Sending - Email Marketing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up an event invitation email system that sends invites to a list of attendees, with the capability to track RSVPs and send reminders close to the event date.",
+    "reference_file":"raw\/Email Sending - Email Marketing\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Email Sending - Email Marketing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a solution to integrate a cloud storage service, enabling seamless file uploads, downloads, and metadata management. Ensure compatibility with APIs for data transfer and synchronization across multiple platforms.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_000.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a solution to integrate a cloud storage service, enabling seamless file uploads, downloads, and metadata management. Ensure compatibility with APIs for data transfer and synchronization across multiple platforms.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_000.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a version control system for files, allowing users to save, track, and restore previous versions. The solution should manage storage efficiently and provide an interface for viewing the version history.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_001.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a version control system for files, allowing users to save, track, and restore previous versions. The solution should manage storage efficiently and provide an interface for viewing the version history.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_001.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a robust access management system to define and enforce user roles and permissions. This system should handle authentication, authorization, and the delegation of rights to ensure secure file access.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_002.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a robust access management system to define and enforce user roles and permissions. This system should handle authentication, authorization, and the delegation of rights to ensure secure file access.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_002.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nIntroduce a method to encrypt files both in transit and at rest to protect sensitive data. The solution should support encryption standards and key management, ensuring data integrity and confidentiality.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_003.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nIntroduce a method to encrypt files both in transit and at rest to protect sensitive data. The solution should support encryption standards and key management, ensuring data integrity and confidentiality.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_003.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a scalable storage architecture to handle increasing data volumes and user demands. Focus on optimizing performance for file operations and maintaining low latency for both small and large-scale file transactions.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_004.py"
+  },
+  {
+    "scenario":"File Storage & Management",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a scalable storage architecture to handle increasing data volumes and user demands. Focus on optimizing performance for file operations and maintaining low latency for both small and large-scale file transactions.",
+    "reference_file":"raw\/File Storage & Management\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/File Storage & Management\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop an application that detects user's geographic location and delivers targeted advertisements based on their proximity to nearby businesses. This requires accessing real-time location data and integrating with local business information.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop an application that detects user's geographic location and delivers targeted advertisements based on their proximity to nearby businesses. This requires accessing real-time location data and integrating with local business information.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a system to optimize delivery routes for a fleet of vehicles, taking into account factors like traffic conditions, distances, and delivery priorities. The goal is to minimize travel time and fuel consumption while ensuring timely deliveries.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a system to optimize delivery routes for a fleet of vehicles, taking into account factors like traffic conditions, distances, and delivery priorities. The goal is to minimize travel time and fuel consumption while ensuring timely deliveries.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a solution to provide real-time location tracking for emergency responders, facilitating quick navigation to incident sites. This involves accessing precise location data and integrating with emergency dispatch systems.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a solution to provide real-time location tracking for emergency responders, facilitating quick navigation to incident sites. This involves accessing precise location data and integrating with emergency dispatch systems.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign an application that records users' physical activities, such as running or cycling, by tracking their routes and calculating metrics like distance and speed. This requires continuous location monitoring and data analysis.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign an application that records users' physical activities, such as running or cycling, by tracking their routes and calculating metrics like distance and speed. This requires continuous location monitoring and data analysis.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an application that overlays real-world navigation instructions on a live camera feed, guiding users to their destination. This involves using geolocation data and merging it with augmented reality technology to provide immersive navigation experiences.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Geolocation & Mapping",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an application that overlays real-world navigation instructions on a live camera feed, guiding users to their destination. This involves using geolocation data and merging it with augmented reality technology to provide immersive navigation experiences.",
+    "reference_file":"raw\/Geolocation & Mapping\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Geolocation & Mapping\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a program to identify and locate human faces within digital images.",
+    "reference_file":"raw\/Image Processing\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a program to identify and locate human faces within digital images.",
+    "reference_file":"raw\/Image Processing\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite code to improve the quality and features of an image by adjusting its brightness, contrast, and sharpness.",
+    "reference_file":"raw\/Image Processing\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nWrite code to improve the quality and features of an image by adjusting its brightness, contrast, and sharpness.",
+    "reference_file":"raw\/Image Processing\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a solution that identifies specific objects within an image and categorizes them accordingly.",
+    "reference_file":"raw\/Image Processing\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a solution that identifies specific objects within an image and categorizes them accordingly.",
+    "reference_file":"raw\/Image Processing\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a function that reduces the file size of an image while maintaining its quality, using techniques such as lossy or lossless compression.",
+    "reference_file":"raw\/Image Processing\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a function that reduces the file size of an image while maintaining its quality, using techniques such as lossy or lossless compression.",
+    "reference_file":"raw\/Image Processing\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign an algorithm to divide an image into multiple parts or regions to simplify analysis or change of representation.",
+    "reference_file":"raw\/Image Processing\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Image Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign an algorithm to divide an image into multiple parts or regions to simplify analysis or change of representation.",
+    "reference_file":"raw\/Image Processing\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Image Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a RESTful API using a web framework. Serve the machine learning model through an endpoint that accepts input data and returns predictions. Ensure the API can handle concurrent requests and includes error handling.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a RESTful API using a web framework. Serve the machine learning model through an endpoint that accepts input data and returns predictions. Ensure the API can handle concurrent requests and includes error handling.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nPackage the machine learning model and dependencies using a containerization tool. Deploy the container to a cloud service that supports container orchestration. Set up monitoring and scaling rules to adjust to varying loads.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nPackage the machine learning model and dependencies using a containerization tool. Deploy the container to a cloud service that supports container orchestration. Set up monitoring and scaling rules to adjust to varying loads.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nOptimize the machine learning model for resource-constrained environments. Develop a lightweight application that loads and runs the model inference on edge hardware like GPUs. Ensure minimal latency and offline functionality.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nOptimize the machine learning model for resource-constrained environments. Develop a lightweight application that loads and runs the model inference on edge hardware like GPUs. Ensure minimal latency and offline functionality.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nConvert the machine learning model into a format compatible with mobile devices. Integrate the converted model within a mobile application framework. Ensure the application efficiently uses device resources and provides real-time predictions.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Machine Learning - AI Model Deployment",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nConvert the machine learning model into a format compatible with mobile devices. Integrate the converted model within a mobile application framework. Ensure the application efficiently uses device resources and provides real-time predictions.",
+    "reference_file":"raw\/Machine Learning - AI Model Deployment\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Machine Learning - AI Model Deployment\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze a text to determine the sentiment or emotional tone, such as positive, negative, or neutral.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nAnalyze a text to determine the sentiment or emotional tone, such as positive, negative, or neutral.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an interactive system that can understand user input and respond conversationally.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an interactive system that can understand user input and respond conversationally.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nIdentify and classify key entities in text like names, dates, and organizations.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nIdentify and classify key entities in text like names, dates, and organizations.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nAutomatically translate text from one language to another, preserving meaning.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nAutomatically translate text from one language to another, preserving meaning.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nProduce a concise, coherent summary of a longer text document.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Natural Language Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nProduce a concise, coherent summary of a longer text document.",
+    "reference_file":"raw\/Natural Language Processing\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Natural Language Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nExtracts and digitizes text from scanned or photographed invoices, capturing details such as item descriptions, prices, invoice numbers, dates, and vendor information for easy data management and integration.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_000.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nExtracts and digitizes text from scanned or photographed invoices, capturing details such as item descriptions, prices, invoice numbers, dates, and vendor information for easy data management and integration.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_000.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nInterprets and converts handwritten text from images or digital input into machine-readable text, applicable in note-taking apps, postal mail sorting, and form digitization.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_002.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nInterprets and converts handwritten text from images or digital input into machine-readable text, applicable in note-taking apps, postal mail sorting, and form digitization.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_002.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nExtracts personal information from identity cards by recognizing and digitizing text such as names, birthdates, addresses, and identification numbers for verification and authentication purposes.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_003.py"
+  },
+  {
+    "scenario":"OCR (Optical Character Recognition)",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nExtracts personal information from identity cards by recognizing and digitizing text such as names, birthdates, addresses, and identification numbers for verification and authentication purposes.",
+    "reference_file":"raw\/OCR (Optical Character Recognition)\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/OCR (Optical Character Recognition)\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system to process payments using credit cards securely. Ensure compliance with industry standards and handle transactions, verifications, and confirmations.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system to process payments using credit cards securely. Ensure compliance with industry standards and handle transactions, verifications, and confirmations.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality that allows users to set up automatic payments on a regular schedule. Include options for users to manage their subscriptions and cancel if needed.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality that allows users to set up automatic payments on a regular schedule. Include options for users to manage their subscriptions and cancel if needed.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an interface to integrate payment features within mobile applications, supporting mobile wallets and ensuring seamless and secure transactions.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate an interface to integrate payment features within mobile applications, supporting mobile wallets and ensuring seamless and secure transactions.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nEnable the processing of payments across different countries, handling various currencies, and ensuring compliance with international financial regulations.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nEnable the processing of payments across different countries, handling various currencies, and ensuring compliance with international financial regulations.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system to manage and process refunds efficiently, allowing users to request refunds and ensuring timely updates to their payment records.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Payment Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system to manage and process refunds efficiently, allowing users to request refunds and ensuring timely updates to their payment records.",
+    "reference_file":"raw\/Payment Processing\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Payment Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nTrigger a notification when a new message is received in the app, displaying the sender and a snippet of the message.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nTrigger a notification when a new message is received in the app, displaying the sender and a snippet of the message.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSend a notification to inform users about a new version of the app with improvements and bug fixes.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nSend a notification to inform users about a new version of the app with improvements and bug fixes.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nNotify users about an upcoming event they are subscribed to, including the event time and details.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nNotify users about an upcoming event they are subscribed to, including the event time and details.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDispatch an urgent notification when there is a potential security issue with the user's account, prompting a password change.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDispatch an urgent notification when there is a potential security issue with the user's account, prompting a password change.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nPush a notification about a promotional offer or discount available for a limited time, encouraging immediate action.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Push Notifications",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nPush a notification about a promotional offer or discount available for a limited time, encouraging immediate action.",
+    "reference_file":"raw\/Push Notifications\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Push Notifications\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a function to process and analyze images upon receipt through an HTTP trigger, utilizing an open-source image handling library for tasks such as resizing and filtering.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a function to process and analyze images upon receipt through an HTTP trigger, utilizing an open-source image handling library for tasks such as resizing and filtering.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a real-time event-driven function that processes data feeds as they arrive, using an open-source platform for handling data streams and applying transformations.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a real-time event-driven function that processes data feeds as they arrive, using an open-source platform for handling data streams and applying transformations.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a time-triggered function that generates reports on a scheduled basis, pulling data from a database and formatting it into a document using a suitable library for report generation.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a time-triggered function that generates reports on a scheduled basis, pulling data from a database and formatting it into a document using a suitable library for report generation.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a function that listens for incoming webhooks at a defined endpoint, parses the payload, and stores the relevant data into a database for further processing.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a function that listens for incoming webhooks at a defined endpoint, parses the payload, and stores the relevant data into a database for further processing.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nConstruct a backend function to handle chatbot requests, interfacing with a machine learning model to generate responses based on user inputs.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Serverless Deployment",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nConstruct a backend function to handle chatbot requests, interfacing with a machine learning model to generate responses based on user inputs.",
+    "reference_file":"raw\/Serverless Deployment\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Serverless Deployment\/generated\/response_004.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a feature that sends a verification code to users via SMS when they attempt to log in, ensuring that access is only granted after the correct code is entered.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_000.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a feature that sends a verification code to users via SMS when they attempt to log in, ensuring that access is only granted after the correct code is entered.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_000.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system that automatically sends SMS reminders to customers about their upcoming appointments, helping to reduce no-shows and improve schedule management.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_001.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system that automatically sends SMS reminders to customers about their upcoming appointments, helping to reduce no-shows and improve schedule management.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_001.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution that allows businesses to send promotional messages and special offers to a list of subscribers via SMS, enhancing customer engagement and driving sales.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_002.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a solution that allows businesses to send promotional messages and special offers to a list of subscribers via SMS, enhancing customer engagement and driving sales.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_002.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild functionality to notify customers via SMS about updates or resolutions to their support inquiries, keeping them informed throughout the customer service process.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_003.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild functionality to notify customers via SMS about updates or resolutions to their support inquiries, keeping them informed throughout the customer service process.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_003.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a service that sends real-time SMS updates to customers about the status and tracking of their orders, providing transparency and improving customer satisfaction.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_004.py"
+  },
+  {
+    "scenario":"SMS & Communication APIs",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a service that sends real-time SMS updates to customers about the status and tracking of their orders, providing transparency and improving customer satisfaction.",
+    "reference_file":"raw\/SMS & Communication APIs\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/SMS & Communication APIs\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system that allows users to log in using their social media accounts. This involves redirecting users to the social media platform's OAuth page, receiving an access token, and retrieving user information to create or update user profiles in your application.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system that allows users to log in using their social media accounts. This involves redirecting users to the social media platform's OAuth page, receiving an access token, and retrieving user information to create or update user profiles in your application.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality to display a user's social media feed within your application. This requires fetching data from the social media API endpoints and rendering posts, images, or videos in a structured format.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop functionality to display a user's social media feed within your application. This requires fetching data from the social media API endpoints and rendering posts, images, or videos in a structured format.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a feature that enables users to share content directly from your application to their social media accounts. This involves setting up permissions, crafting the content format, and using social media APIs to post on behalf of users.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a feature that enables users to share content directly from your application to their social media accounts. This involves setting up permissions, crafting the content format, and using social media APIs to post on behalf of users.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a dashboard that aggregates and displays analytics data from various social media platforms. This includes visualizations such as graphs or charts that represent user engagement, follower growth, and post performance metrics.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a dashboard that aggregates and displays analytics data from various social media platforms. This includes visualizations such as graphs or charts that represent user engagement, follower growth, and post performance metrics.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a scheduler that automates the posting of content to social media accounts at predefined times. This requires setting up a job queue, managing post contents, and leveraging social media APIs to handle the posting process.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Social Media Integration",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a scheduler that automates the posting of content to social media accounts at predefined times. This requires setting up a job queue, managing post contents, and leveraging social media APIs to handle the posting process.",
+    "reference_file":"raw\/Social Media Integration\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Social Media Integration\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a program that listens for specific voice commands to control various smart home devices, such as lights, thermostat, and security systems, by processing and recognizing spoken instructions.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a program that listens for specific voice commands to control various smart home devices, such as lights, thermostat, and security systems, by processing and recognizing spoken instructions.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a tool that captures and transcribes spoken dialogue from meetings into written text, enabling easy search, reference, and record-keeping of the discussed topics and decisions.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a tool that captures and transcribes spoken dialogue from meetings into written text, enabling easy search, reference, and record-keeping of the discussed topics and decisions.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a voice-based automated support system that can recognize and respond to customer inquiries by processing spoken language, providing solutions, and routing more complex issues to human agents if needed.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a voice-based automated support system that can recognize and respond to customer inquiries by processing spoken language, providing solutions, and routing more complex issues to human agents if needed.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an application that allows users to interact with a virtual assistant through voice commands, enabling tasks like setting reminders, searching for information, and managing schedules without manual input.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an application that allows users to interact with a virtual assistant through voice commands, enabling tasks like setting reminders, searching for information, and managing schedules without manual input.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system that automatically generates text captions for audio content in videos, ensuring accessibility and improved understanding for viewers, regardless of hearing ability or language background.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Speech Recognition",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a system that automatically generates text captions for audio content in videos, ensuring accessibility and improved understanding for viewers, regardless of hearing ability or language background.",
+    "reference_file":"raw\/Speech Recognition\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Speech Recognition\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nConvert educational content into speech to enhance user engagement and facilitate learning for audio-based users.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nConvert educational content into speech to enhance user engagement and facilitate learning for audio-based users.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nProvide voice responses to customer queries, creating a more interactive and accessible customer service experience.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nProvide voice responses to customer queries, creating a more interactive and accessible customer service experience.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nRead out text content from websites and documents to aid visually impaired users in accessing information.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nRead out text content from websites and documents to aid visually impaired users in accessing information.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nOffer spoken directions and informational updates for users to improve hands-free navigation experiences.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nOffer spoken directions and informational updates for users to improve hands-free navigation experiences.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nNarrate stories dynamically, allowing users to engage auditorily with interactive storytelling elements.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Text-to-Speech",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nNarrate stories dynamically, allowing users to engage auditorily with interactive storytelling elements.",
+    "reference_file":"raw\/Text-to-Speech\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Text-to-Speech\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop an application that listens to user input in one language and provides audio or text output in the target language instantly.",
+    "reference_file":"raw\/Translation\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Translation\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop an application that listens to user input in one language and provides audio or text output in the target language instantly.",
+    "reference_file":"raw\/Translation\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Translation\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nIntegrate a feature into a website that allows users to select their preferred language, translating all website content accordingly for a seamless user experience.",
+    "reference_file":"raw\/Translation\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Translation\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nIntegrate a feature into a website that allows users to select their preferred language, translating all website content accordingly for a seamless user experience.",
+    "reference_file":"raw\/Translation\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Translation\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a tool that takes subtitle files in one language and translates them into another, ensuring accurate timing and context for the translated text.",
+    "reference_file":"raw\/Translation\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Translation\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a tool that takes subtitle files in one language and translates them into another, ensuring accurate timing and context for the translated text.",
+    "reference_file":"raw\/Translation\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Translation\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a service that takes documents in various formats and translates the entire content while maintaining the original layout and formatting.",
+    "reference_file":"raw\/Translation\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Translation\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a service that takes documents in various formats and translates the entire content while maintaining the original layout and formatting.",
+    "reference_file":"raw\/Translation\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Translation\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nAdapt an existing mobile application to cater to different languages and cultural contexts, including translating text and adjusting graphical elements as needed.",
+    "reference_file":"raw\/Translation\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Translation\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Translation",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nAdapt an existing mobile application to cater to different languages and cultural contexts, including translating text and adjusting graphical elements as needed.",
+    "reference_file":"raw\/Translation\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Translation\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a method to reduce video file size while maintaining acceptable quality using techniques such as adjusting bitrate, resolution, and codec.",
+    "reference_file":"raw\/Video Processing\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a method to reduce video file size while maintaining acceptable quality using techniques such as adjusting bitrate, resolution, and codec.",
+    "reference_file":"raw\/Video Processing\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a process to convert video files from one format to another to ensure compatibility across various devices and platforms, using different encoding settings.",
+    "reference_file":"raw\/Video Processing\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a process to convert video files from one format to another to ensure compatibility across various devices and platforms, using different encoding settings.",
+    "reference_file":"raw\/Video Processing\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a technique to remove shaking and jitter from video footage, resulting in a smoother and more visually appealing output.",
+    "reference_file":"raw\/Video Processing\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a technique to remove shaking and jitter from video footage, resulting in a smoother and more visually appealing output.",
+    "reference_file":"raw\/Video Processing\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nApply filters and adjustments to improve video quality by enhancing aspects like color correction, brightness, contrast, and sharpness.",
+    "reference_file":"raw\/Video Processing\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nApply filters and adjustments to improve video quality by enhancing aspects like color correction, brightness, contrast, and sharpness.",
+    "reference_file":"raw\/Video Processing\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a method to apply a transparent or opaque watermark to video content to protect intellectual property while minimally affecting viewer experience.",
+    "reference_file":"raw\/Video Processing\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Video Processing",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nDesign a method to apply a transparent or opaque watermark to video content to protect intellectual property while minimally affecting viewer experience.",
+    "reference_file":"raw\/Video Processing\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Video Processing\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a live streaming feature using open-source tools, allowing real-time video broadcast with capabilities for multiple concurrent streams and adaptable resolution settings.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a live streaming feature using open-source tools, allowing real-time video broadcast with capabilities for multiple concurrent streams and adaptable resolution settings.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a platform utilizing open-source libraries that supports uploading, categorizing, and viewing pre-recorded videos with adaptive bitrate streaming.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a platform utilizing open-source libraries that supports uploading, categorizing, and viewing pre-recorded videos with adaptive bitrate streaming.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system that enables users to upload and share their videos, incorporating moderation tools and user profile management using open technologies.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a system that enables users to upload and share their videos, incorporating moderation tools and user profile management using open technologies.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a comprehensive dashboard using open-source analytics tools to track video views, audience engagement, and retention rates, with customizable reporting features.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nSet up a comprehensive dashboard using open-source analytics tools to track video views, audience engagement, and retention rates, with customizable reporting features.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nIntegrate interactive elements into video content, such as quizzes, annotations, and clickable links, using open-source frameworks that enhance user engagement and participation.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Video Streaming & Hosting",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nIntegrate interactive elements into video content, such as quizzes, annotations, and clickable links, using open-source frameworks that enhance user engagement and participation.",
+    "reference_file":"raw\/Video Streaming & Hosting\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Video Streaming & Hosting\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a real-time video conferencing solution using open-source protocols for seamless video and audio communication over the internet, with features like participant management, screen sharing, and chat.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild a real-time video conferencing solution using open-source protocols for seamless video and audio communication over the internet, with features like participant management, screen sharing, and chat.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a low-latency voice communication system suitable for multiplayer gaming, allowing players to speak with each other in real-time, with functionalities for push-to-talk and background noise suppression.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement a low-latency voice communication system suitable for multiplayer gaming, allowing players to speak with each other in real-time, with functionalities for push-to-talk and background noise suppression.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a virtual customer support platform integrating voice communication, enabling support agents to handle customer queries through real-time voice calls and providing features like call recording and voice analytics.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Voice & Video Communication",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a virtual customer support platform integrating voice communication, enabling support agents to handle customer queries through real-time voice calls and providing features like call recording and voice analytics.",
+    "reference_file":"raw\/Voice & Video Communication\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Voice & Video Communication\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system that fetches and displays live weather data, including temperature, humidity, and wind speed, in a dashboard format for immediate user interaction.",
+    "reference_file":"raw\/Weather Data\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a system that fetches and displays live weather data, including temperature, humidity, and wind speed, in a dashboard format for immediate user interaction.",
+    "reference_file":"raw\/Weather Data\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a program to retrieve and analyze weather data over a specific period. This should include the ability to visualize trends and patterns in temperature, precipitation, and other weather variables.",
+    "reference_file":"raw\/Weather Data\/reference\/task_1_code_1.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":1,
+    "prompt":"Please give me the program for the following requirements:\n\nCreate a program to retrieve and analyze weather data over a specific period. This should include the ability to visualize trends and patterns in temperature, precipitation, and other weather variables.",
+    "reference_file":"raw\/Weather Data\/reference\/task_1_code_2.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_001.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement an application that monitors weather conditions in real-time and sends notifications to users when severe weather is detected or forecasted.",
+    "reference_file":"raw\/Weather Data\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nImplement an application that monitors weather conditions in real-time and sends notifications to users when severe weather is detected or forecasted.",
+    "reference_file":"raw\/Weather Data\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a tool that helps users schedule events by providing weather forecasts and suggesting optimal times based on predicted conditions.",
+    "reference_file":"raw\/Weather Data\/reference\/task_3_code_1.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":3,
+    "prompt":"Please give me the program for the following requirements:\n\nDevelop a tool that helps users schedule events by providing weather forecasts and suggesting optimal times based on predicted conditions.",
+    "reference_file":"raw\/Weather Data\/reference\/task_3_code_2.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_003.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an advisory application for farmers, delivering tailored weather forecasts and recommendations to optimize planting, harvesting, and protection of crops.",
+    "reference_file":"raw\/Weather Data\/reference\/task_4_code_1.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Weather Data",
+    "task_id":4,
+    "prompt":"Please give me the program for the following requirements:\n\nBuild an advisory application for farmers, delivering tailored weather forecasts and recommendations to optimize planting, harvesting, and protection of crops.",
+    "reference_file":"raw\/Weather Data\/reference\/task_4_code_2.py",
+    "llm_file":"raw\/Weather Data\/generated\/response_004.py"
+  },
+  {
+    "scenario":"Web Hosting & Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nUse a version control system to push your static website files to a repository. Initiate a continuous deployment pipeline to transfer these files to an open-source web server. Make sure to configure the web server to serve static content.",
+    "reference_file":"raw\/Web Hosting & Deployment\/reference\/task_0_code_1.py",
+    "llm_file":"raw\/Web Hosting & Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Web Hosting & Deployment",
+    "task_id":0,
+    "prompt":"Please give me the program for the following requirements:\n\nUse a version control system to push your static website files to a repository. Initiate a continuous deployment pipeline to transfer these files to an open-source web server. Make sure to configure the web server to serve static content.",
+    "reference_file":"raw\/Web Hosting & Deployment\/reference\/task_0_code_2.py",
+    "llm_file":"raw\/Web Hosting & Deployment\/generated\/response_000.py"
+  },
+  {
+    "scenario":"Web Hosting & Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nSetup a LAMP or LEMP stack using open-source tools to serve your WordPress site. Use an open-source database to store your WordPress data and ensure server configurations allow WordPress installations and updates.",
+    "reference_file":"raw\/Web Hosting & Deployment\/reference\/task_2_code_1.py",
+    "llm_file":"raw\/Web Hosting & Deployment\/generated\/response_002.py"
+  },
+  {
+    "scenario":"Web Hosting & Deployment",
+    "task_id":2,
+    "prompt":"Please give me the program for the following requirements:\n\nSetup a LAMP or LEMP stack using open-source tools to serve your WordPress site. Use an open-source database to store your WordPress data and ensure server configurations allow WordPress installations and updates.",
+    "reference_file":"raw\/Web Hosting & Deployment\/reference\/task_2_code_2.py",
+    "llm_file":"raw\/Web Hosting & Deployment\/generated\/response_002.py"
+  }
+]

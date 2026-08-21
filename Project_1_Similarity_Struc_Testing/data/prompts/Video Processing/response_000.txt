@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement a method to reduce video file size while maintaining acceptable quality using techniques such as adjusting bitrate, resolution, and codec.

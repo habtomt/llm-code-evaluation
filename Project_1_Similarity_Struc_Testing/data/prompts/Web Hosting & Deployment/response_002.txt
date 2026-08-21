@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Setup a LAMP or LEMP stack using open-source tools to serve your WordPress site. Use an open-source database to store your WordPress data and ensure server configurations allow WordPress installations and updates.

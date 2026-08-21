@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a dashboard that aggregates and displays analytics data from various social media platforms. This includes visualizations such as graphs or charts that represent user engagement, follower growth, and post performance metrics.

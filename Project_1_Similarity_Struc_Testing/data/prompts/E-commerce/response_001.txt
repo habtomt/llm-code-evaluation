@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement client-side caching to preserve the cart state, minimize server requests, and reduce page load times. Ensure seamless updates using AJAX for adding or removing items, and calculate totals dynamically.

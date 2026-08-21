@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Analyze historical sales data to identify trends, seasonal patterns, and factors affecting sales using statistical techniques and visualization tools.

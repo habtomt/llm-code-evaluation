@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a tool that takes subtitle files in one language and translates them into another, ensuring accurate timing and context for the translated text.

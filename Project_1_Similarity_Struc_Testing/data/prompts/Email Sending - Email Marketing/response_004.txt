@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Set up an event invitation email system that sends invites to a list of attendees, with the capability to track RSVPs and send reminders close to the event date.

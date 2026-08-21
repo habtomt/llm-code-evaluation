@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Allocate and manage container resources dynamically based on real-time application demand to enhance performance and efficiency.

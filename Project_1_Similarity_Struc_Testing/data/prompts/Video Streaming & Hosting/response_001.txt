@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a platform utilizing open-source libraries that supports uploading, categorizing, and viewing pre-recorded videos with adaptive bitrate streaming.

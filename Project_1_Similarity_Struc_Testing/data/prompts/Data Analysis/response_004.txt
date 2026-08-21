@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Analyze operational data to identify bottlenecks and inefficiencies, suggesting process improvements to reduce costs and enhance productivity.

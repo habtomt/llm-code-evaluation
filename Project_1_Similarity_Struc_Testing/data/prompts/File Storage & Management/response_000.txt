@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a solution to integrate a cloud storage service, enabling seamless file uploads, downloads, and metadata management. Ensure compatibility with APIs for data transfer and synchronization across multiple platforms.

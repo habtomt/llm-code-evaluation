@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement a code block that automatically adjusts the resources of a cloud database based on the current load. This includes adding or removing instances and optimizing resource allocation to handle varying workloads efficiently.

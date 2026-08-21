@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement a system to detect when users abandon their shopping carts and trigger follow-up emails to encourage them to complete their purchases, including personalized product recommendations.

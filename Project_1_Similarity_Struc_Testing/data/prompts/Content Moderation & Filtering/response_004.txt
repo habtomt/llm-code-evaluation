@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Set up a filtering mechanism for reader comments on a news website to identify and manage inflammatory or abusive language, ensuring a respectful and constructive discussion environment.

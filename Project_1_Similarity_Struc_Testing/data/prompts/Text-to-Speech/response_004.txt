@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Narrate stories dynamically, allowing users to engage auditorily with interactive storytelling elements.

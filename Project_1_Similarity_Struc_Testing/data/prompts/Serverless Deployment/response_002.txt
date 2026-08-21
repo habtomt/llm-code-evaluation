@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a time-triggered function that generates reports on a scheduled basis, pulling data from a database and formatting it into a document using a suitable library for report generation.

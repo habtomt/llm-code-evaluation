@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a content moderation system to automatically detect and manage inappropriate video content, including explicit or violent material, through computer vision techniques and audio analysis.

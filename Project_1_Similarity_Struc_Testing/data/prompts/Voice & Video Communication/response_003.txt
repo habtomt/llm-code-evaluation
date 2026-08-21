@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a secure telemedicine system that enables healthcare providers and patients to communicate via video calls, ensuring confidentiality and providing features for appointment scheduling and medical record sharing.

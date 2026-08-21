@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a robust access management system to define and enforce user roles and permissions. This system should handle authentication, authorization, and the delegation of rights to ensure secure file access.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design an application that records users' physical activities, such as running or cycling, by tracking their routes and calculating metrics like distance and speed. This requires continuous location monitoring and data analysis.

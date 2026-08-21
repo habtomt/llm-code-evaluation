@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a function that reduces the file size of an image while maintaining its quality, using techniques such as lossy or lossless compression.

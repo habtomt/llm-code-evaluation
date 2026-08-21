@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Adapt an existing mobile application to cater to different languages and cultural contexts, including translating text and adjusting graphical elements as needed.

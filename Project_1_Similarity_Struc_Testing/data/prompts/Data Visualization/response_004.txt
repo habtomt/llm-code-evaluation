@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Build a system to suggest products to customers based on their past behavior and preferences. Use collaborative filtering and other recommendation algorithms to analyze user data and generate personalized product recommendations.

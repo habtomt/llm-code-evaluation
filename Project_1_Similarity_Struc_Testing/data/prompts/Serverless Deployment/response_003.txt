@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a function that listens for incoming webhooks at a defined endpoint, parses the payload, and stores the relevant data into a database for further processing.

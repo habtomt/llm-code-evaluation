@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Read out text content from websites and documents to aid visually impaired users in accessing information.

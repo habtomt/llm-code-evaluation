@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Design a system to collect, process, and store streaming data from IoT devices, ensuring timely and reliable data capture for analysis and monitoring.

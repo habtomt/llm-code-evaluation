@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create an automated sequence of emails for new subscribers to guide them through your products or services and engage them with valuable content over time.

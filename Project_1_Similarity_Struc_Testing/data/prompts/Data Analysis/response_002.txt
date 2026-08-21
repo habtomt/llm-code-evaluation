@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Evaluate marketing campaign data to measure effectiveness using key performance indicators (KPIs) such as conversion rate, ROI, and customer engagement.

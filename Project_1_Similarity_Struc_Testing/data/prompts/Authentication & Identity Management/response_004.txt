@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Implement authorization by assigning different roles to users. Restrict or grant access to certain parts of the application based on the user's role. Ensure permissions are checked at critical points during application function.

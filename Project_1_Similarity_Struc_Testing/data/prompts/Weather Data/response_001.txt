@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Create a program to retrieve and analyze weather data over a specific period. This should include the ability to visualize trends and patterns in temperature, precipitation, and other weather variables.

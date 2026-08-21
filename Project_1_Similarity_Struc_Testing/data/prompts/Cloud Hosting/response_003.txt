@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Install a caching layer in front of your static assets to distribute across multiple geographic locations, ensuring fast load times by serving the content from nodes closer to users.

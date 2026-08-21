@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a technique to remove shaking and jitter from video footage, resulting in a smoother and more visually appealing output.

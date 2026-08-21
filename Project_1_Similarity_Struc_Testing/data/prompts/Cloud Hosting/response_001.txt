@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Set up a scheduled task that uses an open-source tool to create regular backups of your data and store them in a cloud storage bucket. Implement a monitoring script to ensure the backup tasks complete successfully.

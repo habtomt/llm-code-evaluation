@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Notify users about an upcoming event they are subscribed to, including the event time and details.

@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Automatically translate text from one language to another, preserving meaning.

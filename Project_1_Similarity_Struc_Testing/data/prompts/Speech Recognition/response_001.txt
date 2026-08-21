@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Develop a tool that captures and transcribes spoken dialogue from meetings into written text, enabling easy search, reference, and record-keeping of the discussed topics and decisions.

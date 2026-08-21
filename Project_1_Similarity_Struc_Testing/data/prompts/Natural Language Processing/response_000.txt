@@ -1,0 +1,3 @@
+Please give me the program for the following requirements:
+
+Analyze a text to determine the sentiment or emotional tone, such as positive, negative, or neutral.
