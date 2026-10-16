@@ -153,13 +153,13 @@ python run_pipeline.py
 ### Launch the Streamlit dashboard
 
 ```bash
-streamlit run app.py   # TODO: adjust to the actual dashboard file
+streamlit run app.py   # adjust to the actual dashboard file
 ```
 
 ### Launch the quality classifier (FastAPI)
 
 ```bash
-uvicorn main:app --reload   # TODO: adjust module path
+uvicorn main:app --reload   # adjust module path
 ```
 
 ## Limitations
